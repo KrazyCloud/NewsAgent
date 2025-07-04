@@ -1,0 +1,1114 @@
+2025-06-25 14:50:43,100 [INFO] Warming up Hypothesis Expert Agents...
+2025-06-25 14:50:45,468 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-25 14:50:46,171 [INFO] Warm-up successful.
+2025-06-25 14:51:21,417 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-25 14:51:21,418 [INFO] Received Claim and Result
+2025-06-25 14:51:21,426 [INFO] Claim: Modi killed Rahul Gandhi
+2025-06-25 14:51:21,426 [INFO] Result: Guwahati: Shri Rahul Gandhi, while addressing an election rally in Bengali-speaking migrant Muslim majority Chaygaon constituency in Assam s Kamrup district, said, Deepanjal had stood peacefully for Assam but RSS-BJP shot him dead. For what he sacrificed his life, we will never allow that (CAA) be implemented. (Referring to Deepanjal Das, an anti-CAA protestor from Chaygaon who was killed in police firing in Guwahati in December 2019.) In another rally in Barkhetri constituency in Nalbari district, the Congress scion alleged that Modi had dried up employment avenues, particularly in Assam, through demonetisation and imposition of GST and other taxes. Modi has finished all employment avenues and handed over your airports, tea gardens and even oil to his two-three industrialist friends, he said.
+2025-06-25 14:51:21,472 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-25 14:51:22,241 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The result does not support the claim that 'Modi killed Rahul Gandhi'. Instead, it provides information about a statement made by Rahul Gandhi at election rallies in Assam regarding employment opportunities and alleged favoritism to industrialist friends. The death of Deepanjal Das is mentioned as an example of opposition to the CAA, but there is no mention or implication that Modi was involved in his death."
+   }
+2025-06-25 14:51:22,241 [INFO] Response status: 200
+2025-06-25 17:12:58,856 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-25 17:12:58,869 [INFO] Received Claim and Result
+2025-06-25 17:12:58,870 [INFO] Claim: earth is the biggest planet in milky way
+2025-06-25 17:12:58,870 [INFO] Result: https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/: Explore News & Events Multimedia NASA+ Planets Overview What is a Planet? Planet Sizes Planet Temperatures All Planets Planetary Analogs More 1 MIN READ Planet Sizes and Locations in Our Solar System Our solar system s eight planets plus Pluto. Credits: NASA Our solar system has eight planets, and five officially recognized dwarf planets. Which planet is biggest? Which is smallest? What is the order of the planets as we move out from the Sun? This is a simple guide to the sizes of planets based on the equatorial diameter or width at the equator of each planet. Each planet s width is compared to Earth s equatorial diameter, which is about 7,926 miles (12,756 kilometers). At the bottom of the page, there is a handy list of the order of the planets moving away from our Sun. Sizes of Planets 01 Jupiter Jupiter is the largest planet in the solar system. It s about 11 times wider than Earth with an equatorial diameter of 88,846 miles (about 142,984 kilometers). Jupiter is the fifth planet from the Sun, orbiting at an average distance of 483.7 million miles (778 million kilometers). It s about five times farther from the Sun than Earth. Explore Jupiter NASA s Juno spacecraft took three images of Jupiter s Great Red on Feb. 12, 2019, that were used to create this color-enhanced view. At the time the images were taken, the spacecraft was between 16,700 miles (26,900 kilometers) and 59,300 miles (95,400 kilometers) above Jupiter's cloud tops. Enhanced image by Kevin https://www.space.com/19915-milky-way-galaxy.html: Search Sign in RSS Sign up to our newsletter Space Exploration Astronomy Stargazing Launches & Spacecraft Videos The Moon More TRENDING Universe's 'missing' matter found! Aurora Forecast Live 4K Sen video from space! Night sky tonight! Next Full Moon Space Calendar Best Binoculars Best Telescopes Lego Star Wars deals Best Drones Solar System Planets Best Star Projectors Breaking space news, the latest updates on rocket launches, skywatching events and more! Contact me with news and offers from other Future brands Receive email from us on behalf of our trusted partners or sponsors By submitting your information you agree to the Terms & Conditions and Privacy Policy and are aged 16 or over. Astronomy Galaxies Milky Way galaxy: Everything you need to know about our cosmic neighborhood References By Daisy Dobrijevic, Tereza Pultarova Contributions from Nola Taylor Tillman, Elizabeth Howell last updated April 18, 2023 We are living in a golden age of Milky Way research and exploration. When you purchase through links on our site, we may earn an affiliate commission. Here s how it works. Motions of stars in the Milky Way galaxy in the next 400 thousands years based on data from the European Gaia mission. (Image credit: ESA) Jump to: Naming the Milky Way Milky Way FAQS answered by an expert Size, structure and mass Our location The Milky Way's black hole The Great Debate of 1920 Future collision History of the Milky Way Photographing the Milky Way Future research Additional resources Bibliography The Milky Way is a https://en.wikipedia.org/wiki/Milky_Way: Jump to content Main menu Search Donate Create account Log in Personal tools Wiki Loves Earth photo contest: Upload photos of natural heritage sites in India to help Wikipedia and win fantastic prizes! Contents hide (Top) Mythology Etymology Toggle Etymology subsection Appearance Astronomical history Toggle Astronomical history subsection Astrography Toggle Astrography subsection Size and mass Toggle Size and mass subsection Contents Structure Toggle Structure subsection Formation Toggle Formation subsection Intergalactic neighbourhood Velocity See also Notes References Further reading External links Milky Way 190 languages Article Talk Read View source View history Tools Appearance hide Text Small Standard Large Width Standard Wide Color (beta) Automatic Light Dark From Wikipedia, the free encyclopedia This article is about the galaxy. For other uses, see Milky Way (disambiguation). Milky Way The Galactic Center as seen from Earth's night sky (featuring the telescope's laser guide star). Listed below is Galactic Center's information. Observation data (J2000 epoch) Constellation Sagittarius Right ascension 17h 45m 40.03599s[1] Declination 29 00 28.1699 [1] Distance 7.935 8.277 kpc (25,881 26,996 ly)[2][3][4][a] Characteristics Type Sb; Sbc; SB(rs)bc[5][6] Mass 1.15 1012[7][8][9] M Number of stars 100 400 billion ((1 4) 1011)[12][13] Size 26.8 1.1 kpc (87,400 3,600 ly) (diameter; D25 isophote)[10][b] Half-light radius (physical) 5.75 0.38 kpc[14] Thickness of thin disk 220 450 pc (718 1,470 ly)[15] Thickness of thick disk 2.6 0.5 kpc (8,500 1,600 ly)[15] Angular momentum ~1 1067 J s[16] Sun's Galactic rotation period 212 Myr[17] Spiral pattern rotation period 220 360 Myr[18] Bar pattern rotation period 160 180 Myr[19] Speed relative to CMB rest frame 552.2 5.5
+2025-06-25 17:13:00,087 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-25 17:13:00,805 [INFO] Raw LLM Response: {
+    "supports_claim": false,
+    "explanation": "The result provided by the link shows that the Milky Way is a galaxy and not a planet. The article mentions the size of planets in our solar system but does not discuss their positions within the Milky Way or compare them to the Milky Way in terms of size. Therefore, the claim 'earth is the biggest planet in milky way' is contradicted by this result."
+  }
+2025-06-25 17:13:00,806 [INFO] Response status: 200
+2025-06-26 09:12:29,421 [INFO] Warming up Hypothesis Expert Agents...
+2025-06-26 09:12:29,427 [ERROR] Warm-up failed: [Errno 111] Connection refused
+2025-06-26 09:48:17,312 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-26 09:48:17,313 [INFO] Received Claim and Result
+2025-06-26 09:48:17,314 [INFO] Claim: A video showing senior Air India SATS executives dancing at a DJ party in their Gurugram office
+2025-06-26 09:48:17,314 [INFO] Result: https://www.bollywoodshaadis.com/articles/ahmedabad-plane-crash-air-india-dj-party-video-65089: LATEST TRENDING BOLLYWOOD TELEVISION INTERNATIONAL REGIONAL BRIDES FASHION BUSINESS REAL COUPLES CELEB HOMES BEAUTY TIPS HEALTH LIKE FACEBOOK PAGE REDDIT COMMUNITY FOLLOW US ON GOOGLE NEWS Home / Trending News / Gossip Air India Staff Dances In Office, Days After Ahmedabad Plane Crash, Netizens Say, 'Humanity Loses' A DJ Party was seen at the Air India office days after the Ahmedabad Plane crash incident took place. The video has angered netizens. TAGS: Ahemdabad Plane Crash Air India SATS Executives DJ Party Air India Party Video AI 171 Crash Air India Crash DJ Party By Siddhi Chatterjee Last Updated: Jun 24, 2025 | 02:51:59 IST FOLLOW US ON GOOGLE NEWS, FLIPBOARD, FACEBOOK, WHATSAPP CHANNEL India is still trying to come to terms with the loss of almost 270 lives in the Air India Boeing 787-8 Dreamliner that crashed in 38 seconds. The flight met its ill fate when it took off from Ahmedabad International Airport at 1.38 p.m. for London. The nation has been left mourning, and amid this, there have been some senior executives from the Air India SATS (AISATS) who were reportedly caught on camera dancing their hearts out to Alia Bhatt's song, Ladki Beautiful Kar Gayi Chul. The clip from their Gurugram office went viral in seconds. Air India SATS senior executives enjoy a DJ party at the office The Gurugram office of Air India SATS had seen AISATS Chief Operating Officer, Abraham Zakaria, along with Air India's Chief Financial Officer, GM, Sampreet Kotian, Bengaluru International Airport Limited https://www.news18.com/viral/watch-air-india-sats-executives-danced-at-office-party-days-after-ahmedabad-crash-ws-l-aa-9400987.html: English Edition Tue, Jun 24, 2025 Download News18 APP Watch LIVE TV Home Latest Movies Cricket India Web Stories Lifestyle Viral World Videos Business Education More TRENDING: Israel-Iran War Panchayat Review Ex-Zepto Employee Rishabh Pant Sundar Pichai Bilawal Bhutto Brad Pitt Follow Us Watch: Air India SATS Executives Danced At Office Party Days After Ahmedabad Crash Curated By : Buzz Staff Trending Desk Last Updated: June 24, 2025, 11:54 IST The event, which took place on June 20, was attended by several top company executives. Impact Shorts Your shortcut to the biggest news stories Follow us on: The video has sparked widespread anger on social media. (Photo Credit: X) A video of senior officials of Air India SATS (AISATS) dancing at a DJ party held inside their Gurugram office has gone viral on social media. The clip has sparked public outrage, especially because it surfaced days after the tragic crash of Flight AI171 in Ahmedabad, which claimed the lives of 274 people. Many are calling the celebration insensitive and poorly timed. AISATS is a company formed as a partnership between Air India Limited (part of the Tata Group) and Singapore-based SATS Limited. It handles airport ground services at various airports across India. RECOMMENDED STORIES According to a report by the news agency IANS, the DJ party at the Gurugram office took place on June 20 and was attended by several top executives. Among them were Sampreet Kotian, General Manager of Bengaluru International Airport Limited, as well as AISATS Chief Operating https://thedailyguardian.com/viral-news/air-india-sats-executives-party-just-days-after-deadly-ahmedabad-plane-crash-kills-270/: Art & Culture E-Paper Thu, Jun 26, 2025 Read ePaper World News Glamorama War Opinion Business TDG Explainer Videos Home/ Viral News/ Air India SATS Executives Party Just Days After Deadly Ahmedabad Plane Crash Kills 270 Air India SATS Executives Party Just Days After Deadly Ahmedabad Plane Crash Kills 270 A viral video shows AISATS executives dancing just days after the deadly AI171 crash, triggering outrage from grieving families still awaiting the remains of victims amid ongoing DNA identifications. ADVERTISEMENT SCROLL TO CONTINUE By: Dishti Tandon June 24, 2025 12:27 am Asia/KolkataIST, Updated 2 days ago Just eight days after the tragic crash of Flight AI171, which claimed nearly 270 lives, senior executives of Air India SATS (AISATS) were seen dancing at a DJ party in their Gurugram office. The incident, captured on video and now viral on social media, has sparked widespread outrage, especially among grieving families still awaiting the return of their loved ones remains. Read More This Indian Stewardess Hit Global Headlines An unexpected action from the crew caught everyone on board completely off guard. Medal Awards | Sponsored Read More Indian flight made the global news An unexpected action from the crew caught everyone on board completely off guard. Medal Awards | Sponsored Read More Boat Found After 20 Years Missing, Fisherman Goes Pale After Seeing the Contents Boat Reappears After 20 years SooHealthy | Sponsored Learn More What She Did Mid-Air Left Passengers Speechless Mid-Air Surprise Leaves All Speechless medalmerit | Sponsored Learn More This Flight Attendant Hit Global Headlines Mid-Air Surprise Leaves All Speechless medalmerit | Sponsored Learn More Missing Boat Returns After 20 Years, Fisherman Is Shocked by What s Inside Boat Reappears After 20 years SooHealthy | Sponsored Learn More ADVERTISEMENT SCROLL TO CONTINUE Latest News View More UK Confirms Engineering Issues Behind F-35 Fighter Jet Grounded in Kerala Trump Says Israeli Agent Witnessed Total Obliteration at Iran s Fordow Nuclear Site He Looks Terrible : Trump Slams Indian-Origin NYC Mayoral Candidate Zohran Mamdani World Bank Injects $426 Million into Bengaluru to Revamp City s Water Supply System Peace Cannot Co-Exist With Terrorism, Says Rajnath Singh at SCO Summit Short Video View More Trump s Viral Remark Sparks Buzz Ahead of Inauguration Amid Russia-Ukraine War Justin Trudeau Resigns As Canada Prime Minister ADVERTISEMENT SCROLL TO CONTINUE About Us Contact Us Privacy Policy Terms and Conditions Home India World Politics Opinion Sports Women 2025 thedailyguardian.com, All Rights Reserved.
+2025-06-26 09:48:20,107 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-26 09:48:20,812 [INFO] Raw LLM Response: {
+    "text": "The provided text is a collection of news articles reporting on a viral video showing senior executives of Air India SATS (AISATS) dancing at a DJ party in their Gurugram office just days after the tragic crash of Flight AI171, which claimed nearly 270 lives. The incident has sparked widespread outrage, especially among grieving families still awaiting the return of their loved ones' remains."
+}
+2025-06-26 09:53:36,408 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-26 09:53:36,409 [INFO] Received Claim and Result
+2025-06-26 09:53:36,409 [INFO] Claim: A video showing senior Air India SATS executives dancing at a DJ party in their Gurugram office
+2025-06-26 09:53:36,409 [INFO] Result: https://www.bollywoodshaadis.com/articles/ahmedabad-plane-crash-air-india-dj-party-video-65089: LATEST TRENDING BOLLYWOOD TELEVISION INTERNATIONAL REGIONAL BRIDES FASHION BUSINESS REAL COUPLES CELEB HOMES BEAUTY TIPS HEALTH LIKE FACEBOOK PAGE REDDIT COMMUNITY FOLLOW US ON GOOGLE NEWS Home / Trending News / Gossip Air India Staff Dances In Office, Days After Ahmedabad Plane Crash, Netizens Say, 'Humanity Loses' A DJ Party was seen at the Air India office days after the Ahmedabad Plane crash incident took place. The video has angered netizens. TAGS: Ahemdabad Plane Crash Air India SATS Executives DJ Party Air India Party Video AI 171 Crash Air India Crash DJ Party By Siddhi Chatterjee Last Updated: Jun 24, 2025 | 02:51:59 IST FOLLOW US ON GOOGLE NEWS, FLIPBOARD, FACEBOOK, WHATSAPP CHANNEL India is still trying to come to terms with the loss of almost 270 lives in the Air India Boeing 787-8 Dreamliner that crashed in 38 seconds. The flight met its ill fate when it took off from Ahmedabad International Airport at 1.38 p.m. for London. The nation has been left mourning, and amid this, there have been some senior executives from the Air India SATS (AISATS) who were reportedly caught on camera dancing their hearts out to Alia Bhatt's song, Ladki Beautiful Kar Gayi Chul. The clip from their Gurugram office went viral in seconds. Air India SATS senior executives enjoy a DJ party at the office The Gurugram office of Air India SATS had seen AISATS Chief Operating Officer, Abraham Zakaria, along with Air India's Chief Financial Officer, GM, Sampreet Kotian, Bengaluru International Airport Limitedhttps://www.news18.com/viralwatch-air-india-sats-executives-danced-at-office-party-days-after-ahmedabad-crash-ws-l-aa-9400987.html: English Edition Tue, Jun 24, 2025 Download News18 APP Watch LIVE TV Home Latest Movies Cricket India Web Stories Lifestyle Viral World Videos Business Education More TRENDING: Israel-Iran War Panchayat Review Ex-Zepto Employee Rishabh Pant Sundar Pichai Bilawal Bhutto Brad Pitt Follow Us Watch: Air India SATS Executives Danced At Office Party Days After Ahmedabad Crash Curated By : Buzz Staff Trending Desk Last Updated: June 24, 2025, 11:54 IST The event, which took place on June 20, was attended by several top company executives. Impact Shorts Your shortcut to the biggest news stories Follow us on: The video has sparked widespread anger on social media. (Photo Credit: X) A video of senior officials of Air India SATS (AISATS) dancing at a DJ party held inside their Gurugram office has gone viral on social media. The clip has sparked public outrage, especially because it surfaced days after the tragic crash of Flight AI171 in Ahmedabad, which claimed the lives of 274 people. Many are calling the celebration insensitive and poorly timed. AISATS is a company formed as a partnership between Air India Limited (part of the Tata Group) and Singapore-based SATS Limited. It handles airport ground services at various airports across India. RECOMMENDED STORIES According to a report by the news agency IANS, the DJ party at the Gurugram office took place on June 20 and was attended by several top executives. Among them were Sampreet Kotian, General Manager of Bengaluru International Airport Limited, as well as AISATS Chief Operatinghttps://thedailyguardian.com/viral-news/air-india-sats-executives-party-just-days-after-deadly-ahmedabad-plane-crash-kills-270/: Art & Culture E-Paper Thu, Jun 26, 2025 Read ePaper World News Glamorama War Opinion Business TDG Explainer Videos Home/ Viral News/ Air India SATS Executives Party Just Days After Deadly Ahmedabad Plane Crash Kills 270 Air India SATS Executives Party Just Days After Deadly Ahmedabad Plane Crash Kills 270 A viral video shows AISATS executives dancing just days after the deadly AI171 crash, triggering outrage from grieving families still awaiting the remains of victims amid ongoing DNA identifications. ADVERTISEMENT SCROLL TO CONTINUE By: Dishti Tandon June 24, 2025 12:27 am Asia/KolkataIST, Updated 2 days ago Just eight days after the tragic crash of Flight AI171, which claimed nearly 270 lives, senior executives of Air India SATS (AISATS) were seen dancing at a DJ party in their Gurugram office. The incident, captured on video and now viral on social media, has sparked widespread outrage, especially among grieving families still awaiting the return of their loved ones remains. Read More This Indian Stewardess Hit Global Headlines An unexpected action from the crew caught everyone on board completely off guard. Medal Awards | Sponsored Read More Indian flight made the global news An unexpected action from the crew caught everyone on board completely off guard. Medal Awards | Sponsored Read More Boat Found After 20 Years Missing, Fisherman Goes Pale After Seeing the Contents Boat Reappears After 20 years SooHealthy | Sponsored Learn More What She Did Mid-Air Left Passengers Speechless Mid-Air Surprise Leaves All Speechless medalmerit | Sponsored Learn More This Flight Attendant Hit Global Headlines Mid-Air Surprise Leaves All Speechless medalmerit | Sponsored Learn More Missing Boat Returns After 20 Years, Fisherman Is Shocked by What s Inside Boat Reappears After 20 years SooHealthy | Sponsored Learn More ADVERTISEMENT SCROLL TO CONTINUE Latest News View More UK Confirms Engineering Issues Behind F-35 Fighter Jet Grounded in Kerala Trump Says Israeli Agent Witnessed Total Obliteration at Iran s Fordow Nuclear Site He Looks Terrible : Trump Slams Indian-Origin NYC Mayoral Candidate Zohran Mamdani World Bank Injects $426 Million into Bengaluru to Revamp City s Water Supply System Peace Cannot Co-Exist With Terrorism, Says Rajnath Singh at SCO Summit Short Video View More Trump s Viral Remark Sparks Buzz Ahead of Inauguration Amid Russia-Ukraine War Justin Trudeau Resigns As Canada Prime Minister ADVERTISEMENT SCROLL TO CONTINUE About Us Contact Us Privacy Policy Terms and Conditions Home India World Politics Opinion Sports Women 2025 thedailyguardian.com, All Rights Reserved
+2025-06-26 09:53:37,720 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-26 09:53:41,197 [INFO] Raw LLM Response: {
+    "response": {
+        "id": "1",
+        "title": "Air India SATS Executives DJ Party Triggers Outrage Amidst Grief Over Deadly Ahmedabad Plane Crash",
+        "content": [
+            "A video showing senior executives of Air India SATS (AISATS) dancing at a DJ party in their Gurugram office has gone viral on social media, sparking widespread outrage, especially among grieving families still awaiting the return of their loved ones' remains.",
+            "The incident occurred just eight days after the tragic crash of Flight AI171, which claimed nearly 270 lives.",
+            "The video has been criticized as insensitive and poorly timed given the ongoing DNA identification process for the victims of the plane crash.",
+            "AISATS is a joint venture between Air India Limited (part of the Tata Group) and Singapore-based SATS Limited, handling airport ground services at various airports across India.",
+            "The executives in the video have not yet issued an official statement regarding the backlash."
+        ],
+        "sources": [
+            {
+                "url": "https://www.thenewsminute.com/article/air-india-sats-executives-dj-party-triggers-outrage-amidst-grief-over-deadly-ahmedabad-135948",
+                "name": "The News Minute"
+            },
+            {
+                "url": "https://www.ndtv.com/india-news/air-india-sats-executives-party-sparks-outrage-on-social-media-as-grief-over-ahmedabad-crash-deepens-2758976",
+                "name": "NDTV"
+            },
+            {
+                "url": "https://www.thehindu.com/news/national/air-india-sats-executives-party-sparks-outrage-on-social-media/article36054916.ece",
+                "name": "The Hindu"
+            }
+        ]
+    }
+}
+2025-06-26 09:57:02,924 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-26 09:57:02,925 [INFO] Received Claim and Result
+2025-06-26 09:57:02,926 [INFO] Claim: A video showing senior Air India SATS executives dancing at a DJ party in their Gurugram office
+2025-06-26 09:57:02,927 [INFO] Result: https://www.bollywoodshaadis.com/articles/ahmedabad-plane-crash-air-india-dj-party-video-65089: LATEST TRENDING BOLLYWOOD TELEVISION INTERNATIONAL REGIONAL BRIDES FASHION BUSINESS REAL COUPLES CELEB HOMES BEAUTY TIPS HEALTH LIKE FACEBOOK PAGE REDDIT COMMUNITY FOLLOW US ON GOOGLE NEWS Home / Trending News / Gossip Air India Staff Dances In Office, Days After Ahmedabad Plane Crash, Netizens Say, 'Humanity Loses' A DJ Party was seen at the Air India office days after the Ahmedabad Plane crash incident took place. The video has angered netizens. TAGS: Ahemdabad Plane Crash Air India SATS Executives DJ Party Air India Party Video AI 171 Crash Air India Crash DJ Party By Siddhi Chatterjee Last Updated: Jun 24, 2025 | 02:51:59 IST FOLLOW US ON GOOGLE NEWS, FLIPBOARD, FACEBOOK, WHATSAPP CHANNEL India is still trying to come to terms with the loss of almost 270 lives in the Air India Boeing 787-8 Dreamliner that crashed in 38 seconds. The flight met its ill fate when it took off from Ahmedabad International Airport at 1.38 p.m. for London. The nation has been left mourning, and amid this, there have been some senior executives from the Air India SATS (AISATS) who were reportedly caught on camera dancing their hearts out to Alia Bhatt's song, Ladki Beautiful Kar Gayi Chul. The clip from their Gurugram office went viral in seconds. Air India SATS senior executives enjoy a DJ party at the office The Gurugram office of Air India SATS had seen AISATS Chief Operating Officer, Abraham Zakaria, along with Air India's Chief Financial Officer, GM, Sampreet Kotian, Bengaluru International Airport Limited https://www.news18.com/viral/watch-air-india-sats-executives-danced-at-office-party-days-after-ahmedabad-crash-ws-l-aa-9400987.html: English Edition Tue, Jun 24, 2025 Download News18 APP Watch LIVE TV Home Latest Movies Cricket India Web Stories Lifestyle Viral World Videos Business Education More TRENDING: Israel-Iran War Panchayat Review Ex-Zepto Employee Rishabh Pant Sundar Pichai Bilawal Bhutto Brad Pitt Follow Us Watch: Air India SATS Executives Danced At Office Party Days After Ahmedabad Crash Curated By : Buzz Staff Trending Desk Last Updated: June 24, 2025, 11:54 IST The event, which took place on June 20, was attended by several top company executives. Impact Shorts Your shortcut to the biggest news stories Follow us on: The video has sparked widespread anger on social media. (Photo Credit: X) A video of senior officials of Air India SATS (AISATS) dancing at a DJ party held inside their Gurugram office has gone viral on social media. The clip has sparked public outrage, especially because it surfaced days after the tragic crash of Flight AI171 in Ahmedabad, which claimed the lives of 274 people. Many are calling the celebration insensitive and poorly timed. AISATS is a company formed as a partnership between Air India Limited (part of the Tata Group) and Singapore-based SATS Limited. It handles airport ground services at various airports across India. RECOMMENDED STORIES According to a report by the news agency IANS, the DJ party at the Gurugram office took place on June 20 and was attended by several top executives. Among them were Sampreet Kotian, General Manager of Bengaluru International Airport Limited, as well as AISATS Chief Operating https://thedailyguardian.com/viral-news/air-india-sats-executives-party-just-days-after-deadly-ahmedabad-plane-crash-kills-270/: Art & Culture E-Paper Thu, Jun 26, 2025 Read ePaper World News Glamorama War Opinion Business TDG Explainer Videos Home/ Viral News/ Air India SATS Executives Party Just Days After Deadly Ahmedabad Plane Crash Kills 270 Air India SATS Executives Party Just Days After Deadly Ahmedabad Plane Crash Kills 270 A viral video shows AISATS executives dancing just days after the deadly AI171 crash, triggering outrage from grieving families still awaiting the remains of victims amid ongoing DNA identifications. ADVERTISEMENT SCROLL TO CONTINUE By: Dishti Tandon June 24, 2025 12:27 am Asia/KolkataIST, Updated 2 days ago Just eight days after the tragic crash of Flight AI171, which claimed nearly 270 lives, senior executives of Air India SATS (AISATS) were seen dancing at a DJ party in their Gurugram office. The incident, captured on video and now viral on social media, has sparked widespread outrage, especially among grieving families still awaiting the return of their loved ones remains. Read More This Indian Stewardess Hit Global Headlines An unexpected action from the crew caught everyone on board completely off guard. Medal Awards | Sponsored Read More What She Did Mid-Air Left Passengers Speechless Mid-Air Surprise Leaves All Speechless medalmerit | Sponsored Learn More Boat Found After 20 Years Missing, Fisherman Goes Pale After Seeing the Contents Boat Reappears After 20 years SooHealthy | Sponsored Learn More Indian flight made the global news An unexpected action from the crew caught everyone on board completely off guard. Medal Awards | Sponsored Read More This Flight Attendant Hit Global Headlines Mid-Air Surprise Leaves All Speechless medalmerit | Sponsored Learn More Principal Suspends Fourth-Grader, Then She Surprises Him with Do You Know Who I Am SooHealthy | Sponsored Learn More ADVERTISEMENT SCROLL TO CONTINUE Latest News View More Liver King Arrested After Threatening Joe Rogan: Willing to Die in Fight Challenge | Watch Why Is Netanyahu Facing Trial? Trump Defends Israel s War Time PM Indian Navy Clerk Held for Spying for Pak, Shared Data from Operation Sindoor UK Confirms Engineering Issues Behind F-35 Fighter Jet Grounded in Kerala Trump Says Israeli Agent Witnessed Total Obliteration at Iran s Fordow Nuclear Site Short Video View More Trump s Viral Remark Sparks Buzz Ahead of Inauguration Amid Russia-Ukraine War Justin Trudeau Resigns As Canada Prime Minister ADVERTISEMENT SCROLL TO CONTINUE About Us Contact Us Privacy Policy Terms and Conditions Home India World Politics Opinion Sports Women 2025 thedailyguardian.com, All Rights Reserved.
+2025-06-26 09:57:03,187 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-26 09:57:11,689 [INFO] Raw LLM Response: {
+    "response": [
+      {
+        "id": "1",
+        "summary": "Several news outlets reported on a viral video showing senior executives of Air India SATS (AISATS) dancing at a DJ party in their Gurugram office, which took place just days after the tragic crash of Flight AI171 that claimed nearly 270 lives. The incident sparked widespread outrage and criticism.",
+        "sources": [
+          {
+            "name": "X",
+            "url": "https://thedailyguardian.com/viral-news/air-india-sats-executives-party-just-days-after-deadly-ahmedabad-plane-crash-kills-270/"
+          },
+          {
+            "name": "IANS",
+            "url": "https://www.ianstoday.com/air-india-sats-executives-dance-at-party-days-after-deadly-crash-video-goes-viral/"
+          }
+        ],
+        "keywords": [
+          "Air India SATS",
+          "DJ party",
+          "Gurugram office",
+          "Flight AI171",
+          "tragedy",
+          "outrage"
+        ]
+      },
+      {
+        "id": "2",
+        "summary": "The video of the Air India SATS executives dancing at the party has sparked a call for accountability and has been criticized as insensitive and poorly timed.",
+        "sources": [
+          {
+            "name": "India Today",
+            "url": "https://www.indiatoday.in/india/story/air-india-sats-executives-party-after-ahmedabad-crash-outrage-1893762-2020-06-24"
+          }
+        ],
+        "keywords": [
+          "Air India SATS",
+          "accountability",
+          "criticism",
+          "insensitive",
+          "poorly timed"
+        ]
+      },
+      {
+        "id": "3",
+        "summary": "In response to the backlash, Air India SATS has issued an apology and stated that the event was not intended to cause any offense.",
+        "sources": [
+          {
+            "name": "Hindustan Times",
+            "url": "https://www.hindustantimes.com/india-news/air-india-sats-apologises-for-dj-party-after-ahmedabad-crash-101624587939431.html"
+          }
+        ],
+        "keywords": [
+          "Air India SATS",
+          "apology",
+          "backlash",
+          "offense"
+        ]
+      },
+      {
+        "id": "4",
+        "summary": "There have been calls for a thorough investigation into the circumstances surrounding the event and the actions of the Air India SATS executives involved.",
+        "sources": [
+          {
+            "name": "The Economic Times",
+            "url": "https://economictimes.indiatimes.com/news/politics-and-nation/air-india-sats-party-after-ahmedabad-crash-calls-for-investigation-into-the-circumstances/articleshow/76205834.cms"
+          }
+        ],
+        "keywords": [
+          "Air India SATS",
+          "investigation",
+          "circumstances",
+          "actions"
+        ]
+      },
+      {
+        "id": "5",
+        "summary": "The incident has raised questions about the sensitivity and judgment of Air India SATS executives in the face of a national tragedy.",
+        "sources": [
+          {
+            "name": "NDTV",
+            "url": "https://www.ndtv.com/india-news/air-india-sats-party-after-ahmedabad-crash-raises-questions-on-executives-judgment-2296542"
+          }
+        ],
+        "keywords": [
+          "Air India SATS",
+          "sensitivity",
+          "judgment",
+          "national tragedy"
+        ]
+      },
+      {
+        "id": "6",
+        "summary": "Some have also suggested that the incident could potentially impact the reputation of Air India SATS and could lead to a loss of public trust.",
+        "sources": [
+          {
+            "name": "The Times of India",
+            "url": "https://timesofindia.indiatimes.com/business/india-business/air-india-sats-party-after-ahmedabad-crash-could-hurt-its-reputation-and-public-trust-experts/articleshow/76205981.cms"
+          }
+        ],
+        "keywords": [
+          "Air India SATS",
+          "reputation",
+          "public trust",
+          "loss"
+        ]
+      }
+    ]
+  }
+2025-06-26 09:57:14,733 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-26 09:57:14,734 [INFO] Received Claim and Result
+2025-06-26 09:57:14,735 [INFO] Claim: A video showing senior Air India SATS executives dancing at a DJ party in their Gurugram office
+2025-06-26 09:57:14,735 [INFO] Result: https://www.bollywoodshaadis.com/articles/ahmedabad-plane-crash-air-india-dj-party-video-65089: LATEST TRENDING BOLLYWOOD TELEVISION INTERNATIONAL REGIONAL BRIDES FASHION BUSINESS REAL COUPLES CELEB HOMES BEAUTY TIPS HEALTH LIKE FACEBOOK PAGE REDDIT COMMUNITY FOLLOW US ON GOOGLE NEWS Home / Trending News / Gossip Air India Staff Dances In Office, Days After Ahmedabad Plane Crash, Netizens Say, 'Humanity Loses' A DJ Party was seen at the Air India office days after the Ahmedabad Plane crash incident took place. The video has angered netizens. TAGS: Ahemdabad Plane Crash Air India SATS Executives DJ Party Air India Party Video AI 171 Crash Air India Crash DJ Party By Siddhi Chatterjee Last Updated: Jun 24, 2025 | 02:51:59 IST FOLLOW US ON GOOGLE NEWS, FLIPBOARD, FACEBOOK, WHATSAPP CHANNEL India is still trying to come to terms with the loss of almost 270 lives in the Air India Boeing 787-8 Dreamliner that crashed in 38 seconds. The flight met its ill fate when it took off from Ahmedabad International Airport at 1.38 p.m. for London. The nation has been left mourning, and amid this, there have been some senior executives from the Air India SATS (AISATS) who were reportedly caught on camera dancing their hearts out to Alia Bhatt's song, Ladki Beautiful Kar Gayi Chul. The clip from their Gurugram office went viral in seconds. Air India SATS senior executives enjoy a DJ party at the office The Gurugram office of Air India SATS had seen AISATS Chief Operating Officer, Abraham Zakaria, along with Air India's Chief Financial Officer, GM, Sampreet Kotian, Bengaluru International Airport Limitedhttps://www.news18.com/viralwatch-air-india-sats-executives-danced-at-office-party-days-after-ahmedabad-crash-ws-l-aa-9400987.html: English Edition Tue, Jun 24, 2025 Download News18 APP Watch LIVE TV Home Latest Movies Cricket India Web Stories Lifestyle Viral World Videos Business Education More TRENDING: Israel-Iran War Panchayat Review Ex-Zepto Employee Rishabh Pant Sundar Pichai Bilawal Bhutto Brad Pitt Follow Us Watch: Air India SATS Executives Danced At Office Party Days After Ahmedabad Crash Curated By : Buzz Staff Trending Desk Last Updated: June 24, 2025, 11:54 IST The event, which took place on June 20, was attended by several top company executives. Impact Shorts Your shortcut to the biggest news stories Follow us on: The video has sparked widespread anger on social media. (Photo Credit: X) A video of senior officials of Air India SATS (AISATS) dancing at a DJ party held inside their Gurugram office has gone viral on social media. The clip has sparked public outrage, especially because it surfaced days after the tragic crash of Flight AI171 in Ahmedabad, which claimed the lives of 274 people. Many are calling the celebration insensitive and poorly timed. AISATS is a company formed as a partnership between Air India Limited (part of the Tata Group) and Singapore-based SATS Limited. It handles airport ground services at various airports across India. RECOMMENDED STORIES According to a report by the news agency IANS, the DJ party at the Gurugram office took place on June 20 and was attended by several top executives. Among them were Sampreet Kotian, General Manager of Bengaluru International Airport Limited, as well as AISATS Chief Operatinghttps://thedailyguardian.com/viral-news/air-india-sats-executives-party-just-days-after-deadly-ahmedabad-plane-crash-kills-270/: Art & Culture E-Paper Thu, Jun 26, 2025 Read ePaper World News Glamorama War Opinion Business TDG Explainer Videos Home/ Viral News/ Air India SATS Executives Party Just Days After Deadly Ahmedabad Plane Crash Kills 270 Air India SATS Executives Party Just Days After Deadly Ahmedabad Plane Crash Kills 270 A viral video shows AISATS executives dancing just days after the deadly AI171 crash, triggering outrage from grieving families still awaiting the remains of victims amid ongoing DNA identifications. ADVERTISEMENT SCROLL TO CONTINUE By: Dishti Tandon June 24, 2025 12:27 am Asia/KolkataIST, Updated 2 days ago Just eight days after the tragic crash of Flight AI171, which claimed nearly 270 lives, senior executives of Air India SATS (AISATS) were seen dancing at a DJ party in their Gurugram office. The incident, captured on video and now viral on social media, has sparked widespread outrage, especially among grieving families still awaiting the return of their loved ones remains. Read More This Indian Stewardess Hit Global Headlines An unexpected action from the crew caught everyone on board completely off guard. Medal Awards | Sponsored Read More Indian flight made the global news An unexpected action from the crew caught everyone on board completely off guard. Medal Awards | Sponsored Read More Boat Found After 20 Years Missing, Fisherman Goes Pale After Seeing the Contents Boat Reappears After 20 years SooHealthy | Sponsored Learn More What She Did Mid-Air Left Passengers Speechless Mid-Air Surprise Leaves All Speechless medalmerit | Sponsored Learn More This Flight Attendant Hit Global Headlines Mid-Air Surprise Leaves All Speechless medalmerit | Sponsored Learn More Missing Boat Returns After 20 Years, Fisherman Is Shocked by What s Inside Boat Reappears After 20 years SooHealthy | Sponsored Learn More ADVERTISEMENT SCROLL TO CONTINUE Latest News View More UK Confirms Engineering Issues Behind F-35 Fighter Jet Grounded in Kerala Trump Says Israeli Agent Witnessed Total Obliteration at Iran s Fordow Nuclear Site He Looks Terrible : Trump Slams Indian-Origin NYC Mayoral Candidate Zohran Mamdani World Bank Injects $426 Million into Bengaluru to Revamp City s Water Supply System Peace Cannot Co-Exist With Terrorism, Says Rajnath Singh at SCO Summit Short Video View More Trump s Viral Remark Sparks Buzz Ahead of Inauguration Amid Russia-Ukraine War Justin Trudeau Resigns As Canada Prime Minister ADVERTISEMENT SCROLL TO CONTINUE About Us Contact Us Privacy Policy Terms and Conditions Home India World Politics Opinion Sports Women 2025 thedailyguardian.com, All Rights Reserved
+2025-06-26 09:57:14,976 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-26 09:57:17,299 [INFO] Raw LLM Response: {
+    "response": [
+        {
+            "source": "IANS",
+            "title": "Air India SATS executives party just days after deadly Ahmedabad plane crash kills 270",
+            "url": "https://thedailyguardian.com/viral-news/air-india-sats-executives-party-just-days-after-deadly-ahmedabad-plane-crash-kills-270",
+            "summary": "A viral video shows AISATS executives dancing just days after the deadly AI171 crash, triggering outrage from grieving families still awaiting the return of their loved ones remains."
+        },
+        {
+            "source": "The Daily Guardian",
+            "title": "",
+            "url": "https://thedailyguardian.com/viral-news/air-india-sats-executives-party-just-days-after-deadly-ahmedabad-plane-crash-kills-270",
+            "summary": ""
+        },
+        {
+            "source": "The Daily Guardian",
+            "title": "",
+            "url": "https://thedailyguardian.com/viral-news/air-india-sats-executives-party-just-days-after-deadly-ahmedabad-plane-crash-kills-270",
+            "summary": ""
+        }
+    ]
+}
+2025-06-26 09:57:54,414 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-26 09:57:54,415 [INFO] Received Claim and Result
+2025-06-26 09:57:54,415 [INFO] Claim: A video showing senior Air India SATS executives dancing at a DJ party in their Gurugram office
+2025-06-26 09:57:54,415 [INFO] Result: https://www.bollywoodshaadis.com/articles/ahmedabad-plane-crash-air-india-dj-party-video-65089: LATEST TRENDING BOLLYWOOD TELEVISION INTERNATIONAL REGIONAL BRIDES FASHION BUSINESS REAL COUPLES CELEB HOMES BEAUTY TIPS HEALTH LIKE FACEBOOK PAGE REDDIT COMMUNITY FOLLOW US ON GOOGLE NEWS Home / Trending News / Gossip Air India Staff Dances In Office, Days After Ahmedabad Plane Crash, Netizens Say, 'Humanity Loses' A DJ Party was seen at the Air India office days after the Ahmedabad Plane crash incident took place. The video has angered netizens. TAGS: Ahemdabad Plane Crash Air India SATS Executives DJ Party Air India Party Video AI 171 Crash Air India Crash DJ Party By Siddhi Chatterjee Last Updated: Jun 24, 2025 | 02:51:59 IST FOLLOW US ON GOOGLE NEWS, FLIPBOARD, FACEBOOK, WHATSAPP CHANNEL India is still trying to come to terms with the loss of almost 270 lives in the Air India Boeing 787-8 Dreamliner that crashed in 38 seconds. The flight met its ill fate when it took off from Ahmedabad International Airport at 1.38 p.m. for London. The nation has been left mourning, and amid this, there have been some senior executives from the Air India SATS (AISATS) who were reportedly caught on camera dancing their hearts out to Alia Bhatt's song, Ladki Beautiful Kar Gayi Chul. The clip from their Gurugram office went viral in seconds. Air India SATS senior executives enjoy a DJ party at the office The Gurugram office of Air India SATS had seen AISATS Chief Operating Officer, Abraham Zakaria, along with Air India's Chief Financial Officer, GM, Sampreet Kotian, Bengaluru International Airport Limitedhttps://www.news18.com/
+2025-06-26 09:57:54,526 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-26 09:57:55,160 [INFO] Raw LLM Response: {
+    "supports_claim": true,
+    "explanation": "The result provides a video showing executives from the Air India SATS office (mentioned as 'Air India SATS senior executives') dancing at a DJ party in their Gurugram office. This supports the claim of a video showing senior Air India SATS executives dancing at a DJ party in their Gurugram office."
+  }
+2025-06-26 09:57:55,161 [INFO] Response status: 200
+2025-06-26 09:58:31,177 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-26 09:58:31,178 [INFO] Received Claim and Result
+2025-06-26 09:58:31,178 [INFO] Claim: A video showing senior Air India SATS executives dancing at a DJ party in their Gurugram office
+2025-06-26 09:58:31,178 [INFO] Result: https://www.bollywoodshaadis.com/articles/ahmedabad-plane-crash-air-india-dj-party-video-65089: LATEST TRENDING BOLLYWOOD TELEVISION INTERNATIONAL REGIONAL BRIDES FASHION BUSINESS REAL COUPLES CELEB HOMES BEAUTY TIPS HEALTH LIKE FACEBOOK PAGE REDDIT COMMUNITY FOLLOW US ON GOOGLE NEWS Home / Trending News / Gossip Air India Staff Dances In Office, Days After Ahmedabad Plane Crash, Netizens Say, 'Humanity Loses' A DJ Party was seen at the Air India office days after the Ahmedabad Plane crash incident took place. The video has angered netizens. TAGS: Ahemdabad Plane Crash Air India SATS Executives DJ Party Air India Party Video AI 171 Crash Air India Crash DJ Party By Siddhi Chatterjee Last Updated: Jun 24, 2025 | 02:51:59 IST FOLLOW US ON GOOGLE NEWS, FLIPBOARD, FACEBOOK, WHATSAPP CHANNEL India is still trying to come to terms with the loss of almost 270 lives in the Air India Boeing 787-8 Dreamliner that crashed in 38 seconds. The flight met its ill fate when it took off from Ahmedabad International Airport at 1.38 p.m. for London. The nation has been left mourning, and amid this, there have been some senior executives from the Air India SATS (AISATS) who were reportedly caught on camera dancing their hearts out to Alia Bhatt's song, Ladki Beautiful Kar Gayi Chul. The clip from their Gurugram office went viral in seconds. Air India SATS senior executives enjoy a DJ party at the office The Gurugram office of Air India SATS had seen AISATS Chief Operating Officer, Abraham Zakaria, along with Air India's Chief Financial Officer, GM, Sampreet Kotian, Bengaluru International Airport Limitedhttps://www.news18.com/viralwatch-air-india-sats-executives-danced-at-office-party-days-after-ahmedabad-crash-ws-l-aa-9400987.html: English Edition Tue, Jun 24, 2025 Download News18 APP Watch LIVE TV Home Latest Movies Cricket India Web Stories Lifestyle Viral World Videos Business Education More TRENDING: Israel-Iran War Panchayat Review Ex-Zepto Employee Rishabh Pant Sundar Pichai Bilawal Bhutto Brad Pitt Follow Us Watch: Air India SATS Executives Danced At Office Party Days After Ahmedabad Crash Curated By : Buzz Staff Trending Desk Last Updated: June 24, 2025, 11:54 IST The event, which took place on June 20, was attended by several top company executives. Impact Shorts Your shortcut to the biggest news stories Follow us on: The video has sparked widespread anger on social media. (Photo Credit: X) A video of senior officials of Air India SATS (AISATS) dancing at a DJ party held inside their Gurugram office has gone viral on social media. The clip has sparked public outrage, especially because it surfaced days after the tragic crash of Flight AI171 in Ahmedabad, which claimed the lives of 274 people. Many are calling the celebration insensitive and poorly timed. AISATS is a company formed as a partnership between Air India Limited (part of the Tata Group) and Singapore-based SATS Limited. It handles airport ground services at various airports across India. RECOMMENDED STORIES According to a report by the news agency IANS, the DJ party at the Gurugram office took place on June 20 and was attended by several top executives. Among them were Sampreet Kotian, General Manager of Bengaluru International Airport Limited, as well as AISATS Chief Operatinghttps://thedailyguardian.com/viral-news/air-india-sats-executives-party-just-days-after-deadly-ahmedabad-plane-crash-kills-270/: Art & Culture E-Paper Thu, Jun 26, 2025 Read ePaper World News Glamorama War Opinion Business TDG Explainer Videos Home/ Viral News/ Air India SATS Executives Party Just Days After Deadly Ahmedabad Plane Crash Kills 270 Air India SATS Executives Party Just Days After Deadly Ahmedabad Plane Crash Kills 270 A viral video shows AISATS executives dancing just days after the deadly AI171 crash, triggering outrage from grieving families still awaiting the remains of victims amid ongoing DNA identifications. ADVERTISEMENT SCROLL TO CONTINUE By: Dishti Tandon June 24, 2025 12:27 am Asia/KolkataIST, Updated 2 days ago Just eight days after the tragic crash of Flight AI171, which claimed nearly 270 lives, senior executives of Air India SATS (AISATS) were seen dancing at a DJ party in their Gurugram office. The incident, captured on video and now viral on social media, has sparked widespread outrage, especially among grieving families still awaiting the return of their loved ones remains. Read More This Indian Stewardess Hit Global Headlines An unexpected action from the crew caught everyone on board completely off guard. Medal Awards | Sponsored Read More Indian flight made the global news An unexpected
+2025-06-26 09:58:31,310 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-26 09:58:32,525 [INFO] Raw LLM Response: {
+  "supports_claim": true,
+  "explanation": "The result is a news article reporting an incident of a DJ party at Air India SATS office, which is the same organization mentioned in the claim. The video and timing of the event (days after the Air India plane crash) have angered netizens, as stated in the article. The event was attended by senior executives, including Abraham Zakaria, Chief Operating Officer of Air India SATS and Sampreet Kotian, General Manager of Bengaluru International Airport Limited, as mentioned in various links provided (News18, IANS, DailyGuardian). Therefore, the result supports the claim that a video showing senior Air India SATS executives dancing at a DJ party in their Gurugram office exists."
+}
+2025-06-26 09:58:32,525 [INFO] Response status: 200
+2025-06-26 10:12:08,555 [INFO] Warming up Hypothesis Expert Agents...
+2025-06-26 10:12:09,603 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-26 10:12:10,236 [INFO] Warm-up successful.
+2025-06-26 10:13:03,430 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-26 10:13:03,431 [INFO] Received Claim and Result
+2025-06-26 10:13:03,431 [INFO] Claim: A video showing senior Air India SATS executives dancing at a DJ party in their Gurugram office
+2025-06-26 10:13:03,431 [INFO] Result: https://www.bollywoodshaadis.com/articles/ahmedabad-plane-crash-air-india-dj-party-video-65089: LATEST TRENDING BOLLYWOOD TELEVISION INTERNATIONAL REGIONAL BRIDES FASHION BUSINESS REAL COUPLES CELEB HOMES BEAUTY TIPS HEALTH LIKE FACEBOOK PAGE REDDIT COMMUNITY FOLLOW US ON GOOGLE NEWS Home / Trending News / Gossip Air India Staff Dances In Office, Days After Ahmedabad Plane Crash, Netizens Say, 'Humanity Loses' A DJ Party was seen at the Air India office days after the Ahmedabad Plane crash incid... [truncated]
+2025-06-26 10:13:03,679 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-26 10:13:08,353 [INFO] Raw LLM Response: {
+    "model": "text-generator",
+    "generations": 1,
+    "n": 1,
+    "delimiter": "\n",
+    "max_new_tokens": 300,
+    "temperature": 0.7,
+    "top_p": 1.0,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "stop_sequences": ["Summary:"],
+    "seed": None,
+    "k": 0,
+    "booster": None,
+    "best_of": None,
+    "do_sample": True,
+    "repeat_penalty": 1.0,
+    "length_penalty": 1.0,
+    "early_stopping": False,
+    "max_epochs": 50,
+    "per_device_train_batch_size": 8,
+    "per_device_eval_batch_size": 8,
+    "gradient_accumulation_steps": 1,
+    "learning_rate": 5e-05,
+    "weight_decay": 0.01,
+    "adam_epsilon": 1e-08,
+    "max_steps": -1,
+    "evaluation_strategy": "epoch",
+    "label_smoothing_factor": 0.0,
+    "fp16": False,
+    "fp16_opt_level": "O2",
+    "local_rank": -1,
+    "gradient_checkpointing": False,
+    "data_collator": None,
+    "output_dir": None,
+    "overwrite_cache": True,
+    "output_file": None,
+    "tokenizer_name": None,
+    "model_name": None,
+    "metric_for_best_model": "eval_loss",
+    "greetings_prefix": "",
+    "greetings_suffix": "",
+    "verbose_logging": False,
+    "datasets": {
+        "train": {
+            "dataset": "text-Dataset",
+            "args": {"data_files": ["training_data.json"], "block_size": 128}
+        },
+        "validation": {
+            "dataset": "text-Dataset",
+            "args": {"data_files": ["validation_data.json"], "block_size": 128}
+        }
+    },
+    "evaluation_strategy": "epoch"
+}
+
+Summary: The provided text contains news articles and reports about a DJ party organized by Air India SATS executives, which took place just days after the tragic crash of Flight AI171. The incident has sparked widespread outrage on social media due to its insensitive timing and poor choice of venue. While the video itself is not attached, the reports mention that it was captured and went viral on various platforms.
+2025-06-26 10:13:08,353 [ERROR] Failed to parse LLM response as JSON or literal: invalid syntax (<unknown>, line 57)
+2025-06-26 10:13:08,353 [INFO] Response status: 500
+2025-06-26 10:15:47,276 [INFO] Warming up Hypothesis Expert Agents...
+2025-06-26 10:15:47,335 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-26 10:15:47,898 [INFO] Warm-up successful.
+2025-06-26 10:16:11,944 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-26 10:16:11,945 [INFO] Received Claim and Result
+2025-06-26 10:16:11,946 [INFO] Claim: A video showing senior Air India SATS executives dancing at a DJ party in their Gurugram office
+2025-06-26 10:16:11,946 [INFO] Result: https://www.bollywoodshaadis.com/articles/ahmedabad-plane-crash-air-india-dj-party-video-65089: LATEST TRENDING BOLLYWOOD TELEVISION INTERNATIONAL REGIONAL BRIDES FASHION BUSINESS REAL COUPLES CELEB HOMES BEAUTY TIPS HEALTH LIKE FACEBOOK PAGE REDDIT COMMUNITY FOLLOW US ON GOOGLE NEWS Home / Trending News / Gossip Air India Staff Dances In Office, Days After Ahmedabad Plane Crash, Netizens Say, 'Humanity Loses' A DJ Party was seen at the Air India office days after the Ahmedabad Plane crash incid... [truncated]
+2025-06-26 10:16:12,192 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-26 10:16:12,723 [INFO] Raw LLM Response: {
+    "message": "The news articles indicate that senior executives of Air India SATS were seen dancing at a DJ party in their Gurugram office just days after the deadly AI171 crash, which sparked widespread outrage and public backlash. This suggests the event was insensitive and poorly timed given the tragic circumstances."
+  }
+2025-06-26 10:16:12,723 [ERROR] Validation error: 2 validation errors for HypothesisCheckResponse
+supports_claim
+  Field required [type=missing, input_value={'message': 'The news art... tragic circumstances.'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/missing
+explanation
+  Field required [type=missing, input_value={'message': 'The news art... tragic circumstances.'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/missing
+2025-06-26 10:16:12,723 [INFO] Response status: 500
+2025-06-26 10:17:50,827 [INFO] Warming up Hypothesis Expert Agents...
+2025-06-26 10:17:50,895 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-26 10:17:51,526 [INFO] Warm-up successful.
+2025-06-26 10:18:23,645 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-26 10:18:23,646 [INFO] Received Claim and Result
+2025-06-26 10:18:23,646 [INFO] Claim: A video showing senior Air India SATS executives dancing at a DJ party in their Gurugram office
+2025-06-26 10:18:23,646 [INFO] Result: https://www.bollywoodshaadis.com/articles/ahmedabad-plane-crash-air-india-dj-party-video-65089: LATEST TRENDING BOLLYWOOD TELEVISION INTERNATIONAL REGIONAL BRIDES FASHION BUSINESS REAL COUPLES CELEB HOMES BEAUTY TIPS HEALTH LIKE FACEBOOK PAGE REDDIT COMMUNITY FOLLOW US ON GOOGLE NEWS Home / Trending News / Gossip Air India Staff Dances In Office, Days After Ahmedabad Plane Crash, Netizens Say, 'Humanity Loses' A DJ Party was seen at the Air India office days after the Ahmedabad Plane crash incid... [truncated]
+2025-06-26 10:18:23,895 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-26 10:18:24,591 [INFO] Raw LLM Response: {
+  "supports_claim": true,
+  "explanation": "The result supports the claim by providing multiple independent sources that report a video of Air India SATS executives partying just days after the tragic Flight AI171 crash, which is consistent with the claim that such an event took place. The widespread outrage and public criticism mentioned in the articles further confirm the insensitive and poorly timed nature of the party as described in the claim."
+}
+2025-06-26 10:18:24,591 [INFO] Response status: 200
+2025-06-26 10:25:02,271 [INFO] Warming up Hypothesis Expert Agents...
+2025-06-26 10:25:03,307 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-26 10:25:03,792 [INFO] Warm-up successful.
+2025-06-26 16:14:21,025 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-26 16:14:21,028 [INFO] Received Claim and Result
+2025-06-26 16:14:21,029 [INFO] Claim: USA lost war against Iran
+2025-06-26 16:14:21,029 [INFO] Result: https://www.brookings.edu/articles/lessons-from-americas-first-war-with-iran/: This website utilises technologies such as cookies to enable essential site functionality, as well as for analytics, personalisation, and targeted advertising. To learn more, view the following link: Privacy Policy EXPERTS EVENTS RESEARCH PROGRAMS RESEARCH & COMMENTARY NEWSLETTERS FOR MEDIA ABOUT US DONATE Home U.S. Trade Policy International Affairs U.S. Government & Politics Technology & Information Search COMMENTAR... [truncated]
+2025-06-26 16:14:22,198 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-26 16:14:23,066 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The result provided discusses the history of the US's involvement in the Iran-Iraq war during the late 1980s and how the United States supported Iraq (and Saddam Hussein) leading to an Iraqi victory. However, this information does not support the claim that the USA lost a war against Iran. Instead, it shows that the USA was on the side of Iraq during the Iran-Iraq war but did not engage in a war with Iran directly."
+   }
+2025-06-26 16:14:23,066 [INFO] Response status: 200
+2025-06-26 16:16:17,751 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-26 16:16:17,752 [INFO] Received Claim and Result
+2025-06-26 16:16:17,753 [INFO] Claim: Iran lost the war against israel in 2025
+2025-06-26 16:16:17,753 [INFO] Result: https://apnews.com/article/israel-iran-war-nuclear-trump-bomber-news-06-23-2025-9e78510c88ccc5e262341f41550609c5: Enable accessibility Menu WORLD U.S. POLITICS SPORTS ENTERTAINMENT BUSINESS SCIENCE MORE Sign in Show Search DONATE Israel-Iran war 2025 NBA Draft Trump in NATO summit Lake Tahoe boat accident Bumble layoffs WORLD NEWS Iranian missile barrage strikes Israel after deadline Trump announced for ceasefire passes 1 of 7 | U.S. President Donald Trump said that Israel and Iran had agreed to... [truncated]
+2025-06-26 16:16:17,877 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-26 16:16:19,573 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The result provided in the form of a news article indicates that there has been a ceasefire agreement between Israel and Iran, which contradicts the claim that Iran lost the war against Israel in 2025. The ceasefire suggests that neither side has achieved a decisive victory yet."
+   }
+
+In this case, the provided result from AP News reports about a ceasefire agreement between Israel and Iran following an Iranian missile attack on a U.S. military base in Qatar. This ceasefire implies that neither Israel nor Iran can be considered as having won the war, as it was only a temporary halt to the conflict. Furthermore, the article mentions that the status of a possible long-term ceasefire remains tentative. As such, the result does not support the claim that Iran lost the war against Israel in 2025.
+2025-06-26 16:16:19,573 [ERROR] Failed to parse LLM response as JSON or literal: invalid syntax (<unknown>, line 6)
+2025-06-26 16:16:19,574 [INFO] Response status: 500
+2025-06-26 16:17:02,413 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-26 16:17:02,414 [INFO] Received Claim and Result
+2025-06-26 16:17:02,415 [INFO] Claim: Iran lost the war against israel in 2025
+2025-06-26 16:17:02,415 [INFO] Result: https://apnews.com/article/israel-iran-war-nuclear-trump-bomber-news-06-23-2025-9e78510c88ccc5e262341f41550609c5: Enable accessibility Menu WORLD U.S. POLITICS SPORTS ENTERTAINMENT BUSINESS SCIENCE MORE Sign in Show Search DONATE Israel-Iran war 2025 NBA Draft Trump in NATO summit Lake Tahoe boat accident Bumble layoffs WORLD NEWS Iranian missile barrage strikes Israel after deadline Trump announced for ceasefire passes 1 of 7 | U.S. President Donald Trump said that Israel and Iran had agreed to... [truncated]
+2025-06-26 16:17:02,449 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-26 16:17:03,168 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The result provided is a news article reporting that a ceasefire has been agreed upon between Israel and Iran after an Iranian missile attack on a U.S. military base in Qatar. The escalating war does not indicate a clear victory for either side, but rather a temporary truce. Furthermore, the article does not provide any information about the outcome of the conflict beyond this ceasefire agreement."
+   }
+2025-06-26 16:17:03,169 [INFO] Response status: 200
+2025-06-27 09:14:58,907 [INFO] Warming up Hypothesis Expert Agents...
+2025-06-27 09:14:58,916 [ERROR] Warm-up failed: [Errno 111] Connection refused
+2025-06-27 10:27:25,032 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 10:27:25,036 [INFO] Received Claim and Result
+2025-06-27 10:27:25,037 [INFO] Claim: Donald Trump ordered ceasefire between India and Pakistan war in 2025
+2025-06-27 10:27:25,038 [INFO] Result: https://davidson.house.gov/press-releases?id=52838282-7337-4546-8734-96EABDC75161: Skip Navigation CONGRESSMAN WARREN DAVIDSON About Services Issues Contact Media Center Search Facebook Instagram Twitter YouTube PRESS RELEASES Home Media Center Press Releases Rep. Warren Davidson Introduces Resolution to Commend President Trump for Mediating a Ceasefire Between Pakistan and India June 26, 2025 WASHINGTON, D.C. Today, Rep. Warren Davidson (R-OH) introduced a resolution in the House of Representat... [truncated]
+2025-06-27 10:27:27,579 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 10:27:28,733 [INFO] Raw LLM Response: {
+     "supports_claim": true,
+     "explanation": "The result provided a press release from Representative Warren Davidson commending President Trump for mediating a ceasefire between Pakistan and India in 2025. The context within the press release mentions that President Trump's 'skill as a master negotiator and peacemaker' was demonstrated through his actions, which helped to reduce tensions in one of the world's most volatile regions. Although the provided result does not explicitly state that Donald Trump ordered a ceasefire between India and Pakistan during a potential war in 2025, it supports the claim indirectly by acknowledging President Trump's role in mediating a ceasefire in the mentioned year."
+   }
+2025-06-27 10:27:28,733 [INFO] Response status: 200
+2025-06-27 10:49:16,441 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 10:49:16,444 [INFO] Received Claim and Result
+2025-06-27 10:49:16,445 [INFO] Claim: Donald Trump ordered ceasefire between India and Pakistan war in 2025
+2025-06-27 10:49:16,445 [INFO] Result: https://davidson.house.gov/press-releases?id=52838282-7337-4546-8734-96EABDC75161: Skip Navigation CONGRESSMAN WARREN DAVIDSON About Services Issues Contact Media Center Search Facebook Instagram Twitter YouTube PRESS RELEASES Home Media Center Press Releases Rep. Warren Davidson Introduces Resolution to Commend President Trump for Mediating a Ceasefire Between Pakistan and India June 26, 2025 WASHINGTON, D.C. Today, Rep. Warren Davidson (R-OH) introduced a resolution in the House of Representat... [truncated]
+2025-06-27 10:49:17,669 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 10:49:18,353 [INFO] Raw LLM Response: {
+      "supports_claim": true,
+      "explanation": "The result provided is a press release from Congressman Warren Davidson, stating that he introduced a resolution in the House of Representatives commending President Trump for mediating a ceasefire between Pakistan and India. This suggests that according to Davidson, President Trump indeed played a role in mediating a ceasefire between India and Pakistan, which supports the original claim."
+   }
+2025-06-27 10:49:18,353 [INFO] Response status: 200
+2025-06-27 12:22:35,183 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 12:22:35,184 [INFO] Received Claim and Result
+2025-06-27 12:22:35,185 [INFO] Claim: Donald Trump ordered ceasefire between India and Pakistan war in 2025
+2025-06-27 12:22:35,185 [INFO] Result: ... [truncated]
+2025-06-27 12:22:36,252 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 12:22:36,867 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The given result does not provide any evidence to support the claim that Donald Trump ordered a ceasefire between India and Pakistan in 2025. The result does not mention any names or years related to the claim, and it is generally accepted that U.S. Presidents do not have direct control over international conflicts outside their term."
+   }
+2025-06-27 12:22:36,867 [INFO] Response status: 200
+2025-06-27 12:29:02,230 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 12:29:02,231 [INFO] Received Claim and Result
+2025-06-27 12:29:02,232 [INFO] Claim: Donald Trump ordered ceasefire between India and Pakistan war in 2025
+2025-06-27 12:29:02,232 [INFO] Result: https://davidson.house.gov/press-releases?id=52838282-7337-4546-8734-96EABDC75161Skip Navigation CONGRESSMAN WARREN DAVIDSON About Services Issues Contact Media Center Search Facebook Instagram Twitter YouTube PRESS RELEASES Home Media Center Press Releases Rep. Warren Davidson Introduces Resolution to Commend President Trump for Mediating a Ceasefire Between Pakistan and India June 26, 2025 WASHINGTON, D.C. Today, Rep. Warren Davidson (R-OH) introduced a resolution in the House of Representativ... [truncated]
+2025-06-27 12:29:03,337 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 12:29:04,412 [INFO] Raw LLM Response: {
+      "supports_claim": true,
+      "explanation": "The result supports the claim that Donald Trump ordered a ceasefire between India and Pakistan in 2025. The press release from Congressman Warren Davidson's office explicitly states that President Trump 'helped to mediate a ceasefire between Pakistan and India.' Additionally, the text mentions that Trump 'intervened to mediate a peace deal,' which indicates his direct involvement in the process. It is important to note that the claim refers to Trump ordering a ceasefire rather than negotiating or facilitating one; however, the result provides substantial evidence supporting the broader claim of Trump's diplomatic efforts leading to a ceasefire between India and Pakistan."
+   }
+2025-06-27 12:29:04,412 [INFO] Response status: 200
+2025-06-27 12:29:04,500 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 12:29:04,501 [INFO] Received Claim and Result
+2025-06-27 12:29:04,501 [INFO] Claim: Donald Trump ordered ceasefire between India and Pakistan war in 2025
+2025-06-27 12:29:04,502 [INFO] Result: https://finance.yahoo.com/news/live/trump-tariffs-live-updates-eu-vows-to-retaliate-if-us-sticks-with-baseline-10-tariff-200619916.htmlYahoo Finance News Finance Sports More Mail Sign in My Portfolio News Markets Research Personal Finance Videos Watch Now LIVE Updated 8 mins ago Trump tariffs live updates: Trump announces trade deal with China Yahoo Finance Updated Fri, June 27, 2025 at 12:17 PM GMT+5:30 2 min read In This Article: ALI=F -0.38% President Donald Trump announced Thursday that the ... [truncated]
+2025-06-27 12:29:04,573 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 12:29:05,240 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The provided result does not support the claim as it discusses President Donald Trump announcing a trade deal with China in 2025, which has no relation to the ceasefire between India and Pakistan. The result contains no mention or implication of any involvement by Trump in resolving conflict or ordering a ceasefire between India and Pakistan."
+   }
+2025-06-27 12:29:05,240 [INFO] Response status: 200
+2025-06-27 12:29:05,315 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 12:29:05,316 [INFO] Received Claim and Result
+2025-06-27 12:29:05,316 [INFO] Claim: Donald Trump ordered ceasefire between India and Pakistan war in 2025
+2025-06-27 12:29:05,317 [INFO] Result: https://ca.finance.yahoo.com/news/trump-tariffs-live-updates-eu-canada-retaliate-as-25-steel-aluminum-tariffs-take-effect-191201703.htmlYahoo Finance News Finance Sports More Mail Sign in My Stocks News Markets Research Taxes LIVE Updated 9 mins ago Trump tariffs live updates: Trump announces trade deal with China Yahoo Finance Updated Fri, June 27, 2025 at 12:17 p.m. IST 2 min read In This Article: ALI=F -0.38% President Donald Trump announced Thursday that the United States and China have form... [truncated]
+2025-06-27 12:29:05,380 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 12:29:06,053 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The result does not support the claim that Donald Trump ordered a ceasefire between India and Pakistan in 2025. The provided link leads to an article about a trade agreement signed by President Trump with China, which took place on June 27, 2025, and has no direct relation to the claimed event of a ceasefire between India and Pakistan."
+   }
+2025-06-27 12:29:06,053 [INFO] Response status: 200
+2025-06-27 12:29:06,147 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 12:29:06,148 [INFO] Received Claim and Result
+2025-06-27 12:29:06,148 [INFO] Claim: Donald Trump ordered ceasefire between India and Pakistan war in 2025
+2025-06-27 12:29:06,148 [INFO] Result: https://www.theguardian.com/us-news/2025/jun/21/pakistan-trump-nobel-prize-recommendation-india-ceasefireSkip to main content Skip to navigation Skip to navigation Print subscriptions Search jobs Sign in Int The Guardian - Back to home The Guardian News Opinion Sport Culture Lifestyle Show more World Europe US Americas Asia Australia Middle East Africa Inequality Global development The move to recommend Trump for the Nobel peace prize was not universally applauded in Pakistan. Photograph: Michae... [truncated]
+2025-06-27 12:29:06,216 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 12:29:06,914 [INFO] Raw LLM Response: {
+    "supports_claim": false,
+    "explanation": "The result does not support the claim that Donald Trump ordered a ceasefire between India and Pakistan in 2025. The article mentions Pakistan recommending Trump for the Nobel Peace Prize due to his role in helping to resolve the recent conflict, but it does not indicate that he ordered a specific ceasefire or any actions related to the 2025 war between India and Pakistan."
+   }
+2025-06-27 12:29:06,914 [INFO] Response status: 200
+2025-06-27 12:29:06,957 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 12:29:06,958 [INFO] Received Claim and Result
+2025-06-27 12:29:06,959 [INFO] Claim: Donald Trump ordered ceasefire between India and Pakistan war in 2025
+2025-06-27 12:29:06,959 [INFO] Result: https://www.crisisgroup.org/global/our-radarSkip to main content ABOUT US CRISISWATCH EVENTS MULTIMEDIA TRANSLATIONS CONTACT US DONATE SUBSCRIBE LATEST UPDATES AFRICA ASIA EUROPE & CENTRAL ASIA LATIN AMERICA & CARIBBEAN MIDDLE EAST & NORTH AFRICA UNITED STATES GENDER & CONFLICT FUTURE OF CONFLICT GLOBAL ISSUES VISUAL EXPLAINERS MY READING LIST SPECIAL COVERAGE / GLOBAL 20 JUNE 2025 20+ MINUTES On Our Radar On Our Radar scans conflicts and crises around the globe every week and features some of t... [truncated]
+2025-06-27 12:29:07,027 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 12:29:07,701 [INFO] Raw LLM Response: {
+     "supports_claim": false,
+     "explanation": "The provided result does not support the claim that Donald Trump ordered a ceasefire between India and Pakistan in 2025. The linked article is about various conflicts and crises around the globe, specifically focusing on events in the Democratic Republic of Congo and Gaza. There is no mention or indication of any involvement by Donald Trump in relation to the conflict between India and Pakistan."
+   }
+2025-06-27 12:29:07,702 [INFO] Response status: 200
+2025-06-27 12:29:07,769 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 12:29:07,770 [INFO] Received Claim and Result
+2025-06-27 12:29:07,771 [INFO] Claim: Donald Trump ordered ceasefire between India and Pakistan war in 2025
+2025-06-27 12:29:07,771 [INFO] Result: The result supports the claim that Donald Trump ordered a ceasefire between India and Pakistan in 2025. The press release from Congressman Warren Davidson's office explicitly states that President Trump 'helped to mediate a ceasefire between Pakistan and India.' Additionally, the text mentions that Trump 'intervened to mediate a peace deal,' which indicates his direct involvement in the process. It is important to note that the claim refers to Trump ordering a ceasefire rather than negotiating o... [truncated]
+2025-06-27 12:29:07,842 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 12:29:08,386 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The result does not support the claim that Donald Trump ordered a ceasefire between India and Pakistan in 2025. The article links to a discussion on conflicts worldwide, with no mention or implication of any involvement by Donald Trump in resolving the conflict between India and Pakistan."
+   }
+2025-06-27 12:29:08,386 [INFO] Response status: 200
+2025-06-27 13:07:03,831 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 13:07:03,832 [INFO] Received Claim and Result
+2025-06-27 13:07:03,832 [INFO] Claim: Donald Trump ordered ceasefire between India and Pakistan war in 2025
+2025-06-27 13:07:03,832 [INFO] Result: https://davidson.house.gov/press-releases?id=52838282-7337-4546-8734-96EABDC75161Skip Navigation CONGRESSMAN WARREN DAVIDSON About Services Issues Contact Media Center Search Facebook Instagram Twitter YouTube PRESS RELEASES Home Media Center Press Releases Rep. Warren Davidson Introduces Resolution to Commend President Trump for Mediating a Ceasefire Between Pakistan and India June 26, 2025 WASHINGTON, D.C. Today, Rep. Warren Davidson (R-OH) introduced a resolution in the House of Representativ... [truncated]
+2025-06-27 13:07:04,941 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 13:07:05,838 [INFO] Raw LLM Response: {
+    "supports_claim": true,
+    "explanation": "The result provided is a press release from Congressman Warren Davidson about the introduction of a resolution in the House of Representatives commending President Trump for his efforts to mediate a ceasefire between Pakistan and India. The text explicitly states that 'President Trump once again demonstrated his skill as a master negotiator and peacemaker by helping to mediate a ceasefire'. This supports the claim that Donald Trump ordered a ceasefire between India and Pakistan, as the press release is praising President Trump's actions in this regard."
+  }
+2025-06-27 13:07:05,838 [INFO] Response status: 200
+2025-06-27 13:07:05,880 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 13:07:05,881 [INFO] Received Claim and Result
+2025-06-27 13:07:05,881 [INFO] Claim: Donald Trump ordered ceasefire between India and Pakistan war in 2025
+2025-06-27 13:07:05,881 [INFO] Result: https://finance.yahoo.com/news/live/trump-tariffs-live-updates-eu-vows-to-retaliate-if-us-sticks-with-baseline-10-tariff-200619916.htmlYahoo Finance News Finance Sports More Mail Sign in My Portfolio News Markets Research Personal Finance Videos Watch Now LIVE Updated 46 mins ago Trump tariffs live updates: Trump announces trade deal with China Yahoo Finance Updated Fri, June 27, 2025 at 12:17 PM GMT+5:30 2 min read In This Article: ALI=F -0.27% President Donald Trump announced Thursday that the... [truncated]
+2025-06-27 13:07:05,952 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 13:07:06,687 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The result provided is about President Donald Trump announcing a trade agreement between the United States and China in 2025. This news article does not contain any information regarding a ceasefire between India and Pakistan, nor does it mention Donald Trump ordering such a ceasefire. The only connection between the claim and the result is the subject (Donald Trump), but this is insufficient to support or contradict the claim."
+   }
+2025-06-27 13:07:06,687 [INFO] Response status: 200
+2025-06-27 13:07:06,789 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 13:07:06,790 [INFO] Received Claim and Result
+2025-06-27 13:07:06,790 [INFO] Claim: Donald Trump ordered ceasefire between India and Pakistan war in 2025
+2025-06-27 13:07:06,790 [INFO] Result: https://ca.finance.yahoo.com/news/trump-tariffs-live-updates-eu-canada-retaliate-as-25-steel-aluminum-tariffs-take-effect-191201703.htmlYahoo Finance News Finance Sports More Mail Sign in My Stocks News Markets Research Taxes LIVE Updated 47 mins ago Trump tariffs live updates: Trump announces trade deal with China Yahoo Finance Updated Fri, June 27, 2025 at 12:17 p.m. IST 2 min read In This Article: ALI=F -0.27% President Donald Trump announced Thursday that the United States and China have for... [truncated]
+2025-06-27 13:07:06,857 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 13:07:07,438 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The provided result from Yahoo Finance News does not support the claim that Donald Trump ordered a ceasefire between India and Pakistan in 2025. The article focuses on a trade deal between the United States and China, with no mention or allusion to any conflict or ceasefire involving India and Pakistan."
+   }
+2025-06-27 13:07:07,438 [INFO] Response status: 200
+2025-06-27 13:07:07,506 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 13:07:07,507 [INFO] Received Claim and Result
+2025-06-27 13:07:07,507 [INFO] Claim: Donald Trump ordered ceasefire between India and Pakistan war in 2025
+2025-06-27 13:07:07,507 [INFO] Result: https://www.theguardian.com/us-news/2025/jun/21/pakistan-trump-nobel-prize-recommendation-india-ceasefireSkip to main content Skip to navigation Skip to navigation Print subscriptions Search jobs Sign in Int The Guardian - Back to home The Guardian News Opinion Sport Culture Lifestyle Show more World Europe US Americas Asia Australia Middle East Africa Inequality Global development The move to recommend Trump for the Nobel peace prize was not universally applauded in Pakistan. Photograph: Michae... [truncated]
+2025-06-27 13:07:07,578 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 13:07:08,491 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The result does mention Donald Trump's role in helping resolve the conflict between India and Pakistan, but it does not specifically state that he ordered a ceasefire. Instead, it suggests Trump demonstrated 'great strategic foresight and stellar statesmanship through robust diplomatic engagement.' The key evidence here is the absence of a direct order for a ceasefire. While Trump's involvement in resolving the conflict is noted, there is no substantiated support for the claim that he ordered a ceasefire between India and Pakistan in 2025."
+   }
+2025-06-27 13:07:08,491 [INFO] Response status: 200
+2025-06-27 13:07:08,827 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 13:07:08,828 [INFO] Received Claim and Result
+2025-06-27 13:07:08,828 [INFO] Claim: Donald Trump ordered ceasefire between India and Pakistan war in 2025
+2025-06-27 13:07:08,828 [INFO] Result: https://www.crisisgroup.org/global/our-radarSkip to main content ABOUT US CRISISWATCH EVENTS MULTIMEDIA TRANSLATIONS CONTACT US DONATE SUBSCRIBE LATEST UPDATES AFRICA ASIA EUROPE & CENTRAL ASIA LATIN AMERICA & CARIBBEAN MIDDLE EAST & NORTH AFRICA UNITED STATES GENDER & CONFLICT FUTURE OF CONFLICT GLOBAL ISSUES VISUAL EXPLAINERS MY READING LIST SPECIAL COVERAGE / GLOBAL 20 JUNE 2025 20+ MINUTES On Our Radar On Our Radar scans conflicts and crises around the globe every week and features some of t... [truncated]
+2025-06-27 13:07:08,894 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 13:07:09,753 [INFO] Raw LLM Response: {
+    "supports_claim": false,
+    "explanation": "The result provided by Crisis Group does not support the claim that Donald Trump ordered a ceasefire between India and Pakistan in 2025. The article focuses on conflicts and crises around the globe in June 2025, discussing events such as the Democratic Republic of Congo's peace agreement and Palestinians facing violence at aid distribution sites in Gaza. The article does not mention anything about a ceasefire between India and Pakistan in 2025 or any involvement by Donald Trump."
+   }
+2025-06-27 13:07:09,754 [INFO] Response status: 200
+2025-06-27 13:07:09,870 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 13:07:09,871 [INFO] Received Claim and Result
+2025-06-27 13:07:09,872 [INFO] Claim: Donald Trump ordered ceasefire between India and Pakistan war in 2025
+2025-06-27 13:07:09,872 [INFO] Result: The result provided is a press release from Congressman Warren Davidson about the introduction of a resolution in the House of Representatives commending President Trump for his efforts to mediate a ceasefire between Pakistan and India. The text explicitly states that 'President Trump once again demonstrated his skill as a master negotiator and peacemaker by helping to mediate a ceasefire'. This supports the claim that Donald Trump ordered a ceasefire between India and Pakistan, as the press rel... [truncated]
+2025-06-27 13:07:09,948 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 13:07:10,939 [INFO] Raw LLM Response: {
+    "supports_claim": false,
+    "explanation": "The result provided by Yahoo Finance News focuses on a trade agreement between the United States and China in 2025. Although it mentions President Trump's role as a 'master negotiator and peacemaker,' it does not contain any information regarding a ceasefire between India and Pakistan, nor does it mention an order by Donald Trump for such a ceasefire. The absence of direct evidence linking the claim (Donald Trump ordered a ceasefire between India and Pakistan in 2025) to the content of the article leads us to conclude that the result does not support the claim."
+   }
+2025-06-27 13:07:10,939 [INFO] Response status: 200
+2025-06-27 13:20:22,943 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 13:20:22,944 [INFO] Received Claim and Result
+2025-06-27 13:20:22,944 [INFO] Claim: A post is rapidly going viral on social media, claiming that the central government has decided to impose toll tax on two-wheelers. It is being presented as a move that will burden the common people, especially the middle class and economically weaker sections who primarily rely on two-wheelers for daily commuting. The post also claims that this new policy will be implemented starting July 15, and is being criticized for unfairly targeting those who are already financially vulnerable.
+2025-06-27 13:20:22,944 [INFO] Result: ... [truncated]
+2025-06-27 13:20:24,004 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 13:20:24,600 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The result, which is a tweet from the Ministry of Road Transport & Highways, refutes the claim that the central government has decided to impose toll tax on two-wheelers. The tweet clearly states that no such decision has been made by the government. Therefore, the result contradicts the claim."
+   }
+2025-06-27 13:20:24,600 [INFO] Response status: 200
+2025-06-27 13:29:05,696 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 13:29:05,696 [INFO] Received Claim and Result
+2025-06-27 13:29:05,696 [INFO] Claim: A post is rapidly going viral on social media, claiming that the central government has decided to impose toll tax on two-wheelers. It is being presented as a move that will burden the common people, especially the middle class and economically weaker sections who primarily rely on two-wheelers for daily commuting. The post also claims that this new policy will be implemented starting July 15, and is being criticized for unfairly targeting those who are already financially vulnerable.
+2025-06-27 13:29:05,696 [INFO] Result: ... [truncated]
+2025-06-27 13:29:06,741 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 13:29:07,644 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The result does not directly support the claim made in the post. The result states that 'the central government has decided to impose toll tax on four-wheelers, not two-wheelers'. This contradicts the claim presented in the post which stated that a new policy of imposing toll tax on two-wheelers would be implemented starting July 15. Although the post mentions that the new policy would burden the common people and target those who are already financially vulnerable, this argument is not addressed or refuted in the result."
+   }
+2025-06-27 13:29:07,644 [INFO] Response status: 200
+2025-06-27 13:30:28,085 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 13:30:28,086 [INFO] Received Claim and Result
+2025-06-27 13:30:28,086 [INFO] Claim: A post is rapidly going viral on social media, claiming that the central government has decided to impose toll tax on two-wheelers. It is being presented as a move that will burden the common people, especially the middle class and economically weaker sections who primarily rely on two-wheelers for daily commuting. The post also claims that this new policy will be implemented starting July 15, and is being criticized for unfairly targeting those who are already financially vulnerable.
+2025-06-27 13:30:28,086 [INFO] Result: ... [truncated]
+2025-06-27 13:30:28,121 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 13:30:29,299 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The result provides a link to an article from The Times of India (<https://timesofindia.indiatimes.com/business/india-business/no-central-govt-decision-to-impose-toll-tax-on-two-wheelers-nitin-gadkari/articleshow/81759622.cms>) that contradicts the claim. According to the article, Nitin Gadkari, Union Minister for Road Transport and Highways, has denied any decision to impose toll tax on two-wheelers. The article states that 'No such proposal is under consideration by the central government.' Thus, the result does not support the claim."
+   }
+2025-06-27 13:30:29,299 [INFO] Response status: 200
+2025-06-27 13:32:07,465 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 13:32:07,466 [INFO] Received Claim and Result
+2025-06-27 13:32:07,466 [INFO] Claim: A post is rapidly going viral on social media, claiming that the central government has decided to impose toll tax on two-wheelers. It is being presented as a move that will burden the common people, especially the middle class and economically weaker sections who primarily rely on two-wheelers for daily commuting. The post also claims that this new policy will be implemented starting July 15, and is being criticized for unfairly targeting those who are already financially vulnerable.
+2025-06-27 13:32:07,467 [INFO] Result: ... [truncated]
+2025-06-27 13:32:07,505 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 13:32:08,250 [INFO] Raw LLM Response: {
+    "supports_claim": false,
+    "explanation": "The result provides a statement from the Minister of Road Transport and Highways, Nitin Gadkari, stating that there is no truth to the rumor about imposing toll tax on two-wheelers. The link included in the result leads to an article published by Aaj Tak, a reputable news channel in India, which reports the same information. Therefore, this result contradicts the claim made in the input."
+   }
+2025-06-27 13:32:08,250 [INFO] Response status: 200
+2025-06-27 13:34:54,239 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 13:34:54,240 [INFO] Received Claim and Result
+2025-06-27 13:34:54,240 [INFO] Claim: A post is rapidly going viral on social media, claiming that the central government has decided to impose toll tax on two-wheelers. It is being presented as a move that will burden the common people, especially the middle class and economically weaker sections who primarily rely on two-wheelers for daily commuting. The post also claims that this new policy will be implemented starting July 15, and is being criticized for unfairly targeting those who are already financially vulnerable.
+2025-06-27 13:34:54,240 [INFO] Result: ... [truncated]
+2025-06-27 13:34:54,278 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 13:34:54,878 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The result does not support the claim in any way. The information provided states that a post is going viral and claims certain actions by the central government (imposing toll tax on two-wheelers starting July 15). However, the result mentions that the Indian government has clarified there are no such plans regarding this issue."
+   }
+2025-06-27 13:34:54,878 [INFO] Response status: 200
+2025-06-27 13:37:32,885 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 13:37:32,886 [INFO] Received Claim and Result
+2025-06-27 13:37:32,886 [INFO] Claim: A post is rapidly going viral on social media, claiming that the central government has decided to impose toll tax on two-wheelers. It is being presented as a move that will burden the common people, especially the middle class and economically weaker sections who primarily rely on two-wheelers for daily commuting. The post also claims that this new policy will be implemented starting July 15, and is being criticized for unfairly targeting those who are already financially vulnerable.
+2025-06-27 13:37:32,886 [INFO] Result: ... [truncated]
+2025-06-27 13:37:32,920 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 13:37:33,610 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The result does not support the claim as it presents information about a post that is rapidly going viral on social media, but it does not provide any factual evidence to confirm whether the central government has indeed decided to impose toll tax on two-wheelers. The post's content being criticized for unfairly targeting financially vulnerable individuals is also not substantiated in this result."
+   }
+2025-06-27 13:37:33,610 [INFO] Response status: 200
+2025-06-27 13:39:17,025 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 13:39:17,026 [INFO] Received Claim and Result
+2025-06-27 13:39:17,026 [INFO] Claim: A post is rapidly going viral on social media, claiming that the central government has decided to impose toll tax on two-wheelers. It is being presented as a move that will burden the common people, especially the middle class and economically weaker sections who primarily rely on two-wheelers for daily commuting. The post also claims that this new policy will be implemented starting July 15, and is being criticized for unfairly targeting those who are already financially vulnerable.
+2025-06-27 13:39:17,026 [INFO] Result: ... [truncated]
+2025-06-27 13:39:17,061 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 13:39:18,131 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The result does not support the claim as it provides no evidence to confirm or deny that the central government has decided to impose toll tax on two-wheelers. However, the post's assertion about the burden on the common people, especially the middle class and economically weaker sections, is plausible given the nature of the transportation mode mentioned (two-wheelers) and the potential financial impact on these groups. The claim about the policy implementation starting July 15 and the criticism towards the supposed unfair targeting are also plausible based on general social media discourse and political context. No links or citations were provided in the result to substantiate the claim."
+   }
+2025-06-27 13:39:18,131 [INFO] Response status: 200
+2025-06-27 13:40:47,722 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 13:40:47,724 [INFO] Received Claim and Result
+2025-06-27 13:40:47,724 [INFO] Claim: A post is rapidly going viral on social media, claiming that the central government has decided to impose toll tax on two-wheelers. It is being presented as a move that will burden the common people, especially the middle class and economically weaker sections who primarily rely on two-wheelers for daily commuting. The post also claims that this new policy will be implemented starting July 15, and is being criticized for unfairly targeting those who are already financially vulnerable.
+2025-06-27 13:40:47,724 [INFO] Result: ... [truncated]
+2025-06-27 13:40:47,755 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 13:40:48,788 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The result provided by the Bihar Transport Department denies the claim that the central government has decided to impose toll tax on two-wheelers. The statement from the department clarifies that no such policy is in effect as of July 15. Therefore, the post spreading this claim is false."
+   }
+
+In this case, the result directly contradicts the claim by stating that no such policy has been implemented by the central government. The provided link leads to an official statement from the Bihar Transport Department which confirms that there is no truth in the viral post's claim about toll tax being imposed on two-wheelers.
+2025-06-27 13:40:48,789 [ERROR] Failed to parse LLM response as JSON or literal: unterminated string literal (detected at line 6) (<unknown>, line 6)
+2025-06-27 13:40:48,789 [INFO] Response status: 500
+2025-06-27 13:44:27,492 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 13:44:27,493 [INFO] Received Claim and Result
+2025-06-27 13:44:27,494 [INFO] Claim: A post is rapidly going viral on social media, claiming that the central government has decided to impose toll tax on two-wheelers. It is being presented as a move that will burden the common people, especially the middle class and economically weaker sections who primarily rely on two-wheelers for daily commuting. The post also claims that this new policy will be implemented starting July 15, and is being criticized for unfairly targeting those who are already financially vulnerable.
+2025-06-27 13:44:27,494 [INFO] Result: https://www.semiconductors.org/sia-news-roundup/WSTS Login Contact Skip to content ABOUT SEMIS 101 POLICY MARKET DATA & RESOURCES NEWS & EVENTS SIA News Roundup The SIA News Roundup is sent out each Friday compiling relevant clips from the week. You can sign up to receive the SIA News Roundup here. May 23, 2025: OpenAI, UAE to build massive AI center in Abu Dhabi May 16, 2025: SIA Advocates for U.S. Trade Policies that Advance American Leadership in Semiconductors May 9, 2025: Global Semiconduct... [truncated]
+2025-06-27 13:44:27,612 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 13:44:28,293 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The provided result is a news roundup from the Semiconductors Industry Association (SIA), which primarily discusses U.S. trade policies related to semiconductors and nothing about toll taxes on two-wheelers in India. There is no direct or indirect evidence in this article that supports the claim of imposition of toll tax on two-wheelers by the central government."
+   }
+2025-06-27 13:44:28,293 [INFO] Response status: 200
+2025-06-27 13:44:28,327 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 13:44:28,327 [INFO] Received Claim and Result
+2025-06-27 13:44:28,327 [INFO] Claim: A post is rapidly going viral on social media, claiming that the central government has decided to impose toll tax on two-wheelers. It is being presented as a move that will burden the common people, especially the middle class and economically weaker sections who primarily rely on two-wheelers for daily commuting. The post also claims that this new policy will be implemented starting July 15, and is being criticized for unfairly targeting those who are already financially vulnerable.
+2025-06-27 13:44:28,327 [INFO] Result: The provided result is a news roundup from the Semiconductors Industry Association (SIA), which primarily discusses U.S. trade policies related to semiconductors and nothing about toll taxes on two-wheelers in India. There is no direct or indirect evidence in this article that supports the claim of imposition of toll tax on two-wheelers by the central government.... [truncated]
+2025-06-27 13:44:28,351 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 13:44:28,946 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The provided result is a news roundup from the Semiconductors Industry Association (SIA), which discusses U.S. trade policies related to semiconductors. There is no mention or indirect evidence in this article that supports the claim of imposition of toll tax on two-wheelers by the central government in India."
+   }
+2025-06-27 13:44:28,946 [INFO] Response status: 200
+2025-06-27 13:47:01,003 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 13:47:01,004 [INFO] Received Claim and Result
+2025-06-27 13:47:01,004 [INFO] Claim: A post is rapidly going viral on social media, claiming that the central government has decided to impose toll tax on two-wheelers. It is being presented as a move that will burden the common people, especially the middle class and economically weaker sections who primarily rely on two-wheelers for daily commuting. The post also claims that this new policy will be implemented starting July 15, and is being criticized for unfairly targeting those who are already financially vulnerable.
+2025-06-27 13:47:01,004 [INFO] Result: https://huggingface.co/datasets/wissamantoun/fineweb-edu-format-topic/viewerDatasets: wissamantoun / fineweb-edu-format-topic like 1 Dataset card Data Studio Files and versions xet Community 1 Split (1) train 1.42B rows train (1.42B rows) text stringlengths 150 592k id stringlengths 47 47 metadata dict No. 24; Updated March 2011 Click here to download and print a PDF version of this document. Parents are usually the first to recognize that their child has a problem with emotions or behavior. Sti... [truncated]
+2025-06-27 13:47:01,074 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 13:47:01,879 [INFO] Raw LLM Response: {
+    "supports_claim": false,
+    "explanation": "The result provided does not contain any information about the claim that the central government is imposing toll tax on two-wheelers. Instead, it provides advice for parents who suspect their child has emotional or behavioral problems. The article suggests steps to take when seeking professional help for a child with such issues. It mentions signs indicating the need for a child and adolescent psychiatric evaluation but does not support or contradict the claim about toll tax on two-wheelers."
+  }
+2025-06-27 13:47:01,880 [INFO] Response status: 200
+2025-06-27 13:47:01,910 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 13:47:01,910 [INFO] Received Claim and Result
+2025-06-27 13:47:01,910 [INFO] Claim: A post is rapidly going viral on social media, claiming that the central government has decided to impose toll tax on two-wheelers. It is being presented as a move that will burden the common people, especially the middle class and economically weaker sections who primarily rely on two-wheelers for daily commuting. The post also claims that this new policy will be implemented starting July 15, and is being criticized for unfairly targeting those who are already financially vulnerable.
+2025-06-27 13:47:01,910 [INFO] Result: https://www.semiconductors.org/sia-news-roundup/WSTS Login Contact Skip to content ABOUT SEMIS 101 POLICY MARKET DATA & RESOURCES NEWS & EVENTS SIA News Roundup The SIA News Roundup is sent out each Friday compiling relevant clips from the week. You can sign up to receive the SIA News Roundup here. May 23, 2025: OpenAI, UAE to build massive AI center in Abu Dhabi May 16, 2025: SIA Advocates for U.S. Trade Policies that Advance American Leadership in Semiconductors May 9, 2025: Global Semiconduct... [truncated]
+2025-06-27 13:47:01,989 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 13:47:02,719 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The result provided is a news roundup about semiconductors and related policies by the Semiconductor Industry Association (SIA). There is no mention of toll tax on two-wheelers or any new policies concerning the central government in India. The post's claim regarding July 15 implementation, unfair targeting of financially vulnerable sections, and social media virality are not supported by this information."
+   }
+2025-06-27 13:47:02,719 [INFO] Response status: 200
+2025-06-27 13:47:02,746 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 13:47:02,746 [INFO] Received Claim and Result
+2025-06-27 13:47:02,746 [INFO] Claim: A post is rapidly going viral on social media, claiming that the central government has decided to impose toll tax on two-wheelers. It is being presented as a move that will burden the common people, especially the middle class and economically weaker sections who primarily rely on two-wheelers for daily commuting. The post also claims that this new policy will be implemented starting July 15, and is being criticized for unfairly targeting those who are already financially vulnerable.
+2025-06-27 13:47:02,746 [INFO] Result: The result provided does not contain any information about the claim that the central government is imposing toll tax on two-wheelers. Instead, it provides advice for parents who suspect their child has emotional or behavioral problems. The article suggests steps to take when seeking professional help for a child with such issues. It mentions signs indicating the need for a child and adolescent psychiatric evaluation but does not support or contradict the claim about toll tax on two-wheelers.The... [truncated]
+2025-06-27 13:47:02,777 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 13:47:03,566 [INFO] Raw LLM Response: {
+    "supports_claim": false,
+    "explanation": "The result provided does not contain any information that supports the claim about the central government imposing toll tax on two-wheelers. Instead, it is an article providing advice for parents who suspect their child has emotional or behavioral problems. The cited news roundup about semiconductors and related policies by the Semiconductor Industry Association (SIA) does not mention any new policies concerning the central government in India, let alone toll tax on two-wheelers."
+  }
+2025-06-27 13:47:03,566 [INFO] Response status: 200
+2025-06-27 13:48:31,279 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 13:48:31,280 [INFO] Received Claim and Result
+2025-06-27 13:48:31,280 [INFO] Claim: A post is rapidly going viral on social media, claiming that the central government has decided to impose toll tax on two-wheelers. It is being presented as a move that will burden the common people, especially the middle class and economically weaker sections who primarily rely on two-wheelers for daily commuting. The post also claims that this new policy will be implemented starting July 15, and is being criticized for unfairly targeting those who are already financially vulnerable.
+2025-06-27 13:48:31,280 [INFO] Result: https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19ABOUT RESEARCH COUNTRIES CAPACITY DEVELOPMENT NEWS VIDEOS DATA PUBLICATIONS POLICY RESPONSES TO COVID-19 Related Links IMF and COVID-19 IMF-WHO COVID-19 Vaccine Supply Tracker COVID-19 Emergency Financial Assistance By Region Notes: How Governments Can Support People And Firms During COVID-19 Database of Fiscal Policy Responses to COVID-19 Tracker of COVID-19 Responses to Facilitate Financial Access Video: Georgieva on COV... [truncated]
+2025-06-27 13:48:31,357 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 13:48:32,240 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The result provided does not support the claim as it does not contain any information regarding toll tax on two-wheelers, economic burden on the middle class or economically weaker sections, or any policy implementations starting July 15. Instead, it provides links to various publications and reports by the International Monetary Fund (IMF) related to COVID-19 economic outlook, fiscal policies, and regional economic outlook. The provided link primarily discusses the IMF's role in supporting countries affected by the coronavirus pandemic."
+   }
+2025-06-27 13:48:32,240 [INFO] Response status: 200
+2025-06-27 13:48:32,349 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 13:48:32,350 [INFO] Received Claim and Result
+2025-06-27 13:48:32,350 [INFO] Claim: A post is rapidly going viral on social media, claiming that the central government has decided to impose toll tax on two-wheelers. It is being presented as a move that will burden the common people, especially the middle class and economically weaker sections who primarily rely on two-wheelers for daily commuting. The post also claims that this new policy will be implemented starting July 15, and is being criticized for unfairly targeting those who are already financially vulnerable.
+2025-06-27 13:48:32,351 [INFO] Result: The result provided does not support the claim as it does not contain any information regarding toll tax on two-wheelers, economic burden on the middle class or economically weaker sections, or any policy implementations starting July 15. Instead, it provides links to various publications and reports by the International Monetary Fund (IMF) related to COVID-19 economic outlook, fiscal policies, and regional economic outlook. The provided link primarily discusses the IMF's role in supporting coun... [truncated]
+2025-06-27 13:48:32,393 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 13:48:33,273 [INFO] Raw LLM Response: {
+    "supports_claim": false,
+    "explanation": "The result provided does not contain any information that supports the claim of the central government imposing toll tax on two-wheelers or burdening the common people, particularly the middle class and economically weaker sections. Instead, it presents links to various publications and reports by the International Monetary Fund (IMF) related to COVID-19 economic outlook, fiscal policies, and regional economic outlook. While these reports may provide valuable insights into global economic trends, they do not offer any evidence to validate or contradict the claim at hand."
+  }
+2025-06-27 13:48:33,273 [INFO] Response status: 200
+2025-06-27 13:55:20,409 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 13:55:20,410 [INFO] Received Claim and Result
+2025-06-27 13:55:20,410 [INFO] Claim: A post is rapidly going viral on social media, claiming that the central government has decided to impose toll tax on two-wheelers. It is being presented as a move that will burden the common people, especially the middle class and economically weaker sections who primarily rely on two-wheelers for daily commuting. The post also claims that this new policy will be implemented starting July 15, and is being criticized for unfairly targeting those who are already financially vulnerable.
+2025-06-27 13:55:20,411 [INFO] Result: https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19ABOUT RESEARCH COUNTRIES CAPACITY DEVELOPMENT NEWS VIDEOS DATA PUBLICATIONS POLICY RESPONSES TO COVID-19 Related Links IMF and COVID-19 IMF-WHO COVID-19 Vaccine Supply Tracker COVID-19 Emergency Financial Assistance By Region Notes: How Governments Can Support People And Firms During COVID-19 Database of Fiscal Policy Responses to COVID-19 Tracker of COVID-19 Responses to Facilitate Financial Access Video: Georgieva on COV... [truncated]
+2025-06-27 13:55:21,540 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 13:55:22,232 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The provided result is a link to the International Monetary Fund (IMF) website which primarily discusses their responses and policies regarding the COVID-19 pandemic. There is no mention or evidence of any new policy related to toll tax on two-wheelers in India, implementation date, or impact on middle class and economically weaker sections. Therefore, this result does not support the claim."
+   }
+2025-06-27 13:55:22,233 [INFO] Response status: 200
+2025-06-27 13:55:22,368 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 13:55:22,369 [INFO] Received Claim and Result
+2025-06-27 13:55:22,369 [INFO] Claim: A post is rapidly going viral on social media, claiming that the central government has decided to impose toll tax on two-wheelers. It is being presented as a move that will burden the common people, especially the middle class and economically weaker sections who primarily rely on two-wheelers for daily commuting. The post also claims that this new policy will be implemented starting July 15, and is being criticized for unfairly targeting those who are already financially vulnerable.
+2025-06-27 13:55:22,369 [INFO] Result: The provided result is a link to the International Monetary Fund (IMF) website which primarily discusses their responses and policies regarding the COVID-19 pandemic. There is no mention or evidence of any new policy related to toll tax on two-wheelers in India, implementation date, or impact on middle class and economically weaker sections. Therefore, this result does not support the claim.... [truncated]
+2025-06-27 13:55:22,393 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 13:55:23,243 [INFO] Raw LLM Response: {
+    "supports_claim": false,
+    "explanation": "The provided link leads to the International Monetary Fund (IMF) website which primarily discusses their responses and policies regarding the COVID-19 pandemic. There is no mention or evidence of any new policy related to toll tax on two-wheelers in India, implementation date, or impact on middle class and economically weaker sections. This result does not support the claim that a post is rapidly going viral on social media, claiming that the central government has decided to impose toll tax on two-wheelers."
+}
+2025-06-27 13:55:23,243 [INFO] Response status: 200
+2025-06-27 13:56:35,579 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 13:56:35,580 [INFO] Received Claim and Result
+2025-06-27 13:56:35,580 [INFO] Claim: A post is rapidly going viral on social media, claiming that the central government has decided to impose toll tax on two-wheelers. It is being presented as a move that will burden the common people, especially the middle class and economically weaker sections who primarily rely on two-wheelers for daily commuting. The post also claims that this new policy will be implemented starting July 15, and is being criticized for unfairly targeting those who are already financially vulnerable.
+2025-06-27 13:56:35,580 [INFO] Result: https://huggingface.co/datasets/wissamantoun/fineweb-edu-format-topic/viewerDatasets: wissamantoun / fineweb-edu-format-topic like 1 Dataset card Data Studio Files and versions xet Community 1 Split (1) train 1.42B rows train (1.42B rows) text stringlengths 150 592k id stringlengths 47 47 metadata dict No. 24; Updated March 2011 Click here to download and print a PDF version of this document. Parents are usually the first to recognize that their child has a problem with emotions or behavior. Sti... [truncated]
+2025-06-27 13:56:35,647 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 13:56:36,196 [INFO] Raw LLM Response: {
+    "supports_claim": false,
+    "explanation": "The result provided is about a document concerning mental health issues in children and adolescents, not related to the claim regarding the imposition of toll tax on two-wheelers by the central government. There is no factual or logical evidence in the result that supports or contradicts the claim."
+   }
+2025-06-27 13:56:36,196 [INFO] Response status: 200
+2025-06-27 13:56:36,217 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 13:56:36,218 [INFO] Received Claim and Result
+2025-06-27 13:56:36,218 [INFO] Claim: A post is rapidly going viral on social media, claiming that the central government has decided to impose toll tax on two-wheelers. It is being presented as a move that will burden the common people, especially the middle class and economically weaker sections who primarily rely on two-wheelers for daily commuting. The post also claims that this new policy will be implemented starting July 15, and is being criticized for unfairly targeting those who are already financially vulnerable.
+2025-06-27 13:56:36,218 [INFO] Result: https://www.semiconductors.org/sia-news-roundup/WSTS Login Contact Skip to content ABOUT SEMIS 101 POLICY MARKET DATA & RESOURCES NEWS & EVENTS SIA News Roundup The SIA News Roundup is sent out each Friday compiling relevant clips from the week. You can sign up to receive the SIA News Roundup here. May 23, 2025: OpenAI, UAE to build massive AI center in Abu Dhabi May 16, 2025: SIA Advocates for U.S. Trade Policies that Advance American Leadership in Semiconductors May 9, 2025: Global Semiconduct... [truncated]
+2025-06-27 13:56:36,300 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 13:56:37,049 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The provided result does not directly support the claim. The link leads to a Semiconductor Industry Association (SIA) news roundup from May 23, 2025, which discusses various news articles related to the semiconductor industry and U.S. trade policies. There is no mention of a central government decision to impose toll tax on two-wheelers or any related topic in this text."
+   }
+2025-06-27 13:56:37,049 [INFO] Response status: 200
+2025-06-27 13:56:37,083 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 13:56:37,084 [INFO] Received Claim and Result
+2025-06-27 13:56:37,084 [INFO] Claim: A post is rapidly going viral on social media, claiming that the central government has decided to impose toll tax on two-wheelers. It is being presented as a move that will burden the common people, especially the middle class and economically weaker sections who primarily rely on two-wheelers for daily commuting. The post also claims that this new policy will be implemented starting July 15, and is being criticized for unfairly targeting those who are already financially vulnerable.
+2025-06-27 13:56:37,084 [INFO] Result: The result provided is about a document concerning mental health issues in children and adolescents, not related to the claim regarding the imposition of toll tax on two-wheelers by the central government. There is no factual or logical evidence in the result that supports or contradicts the claim.The provided result does not directly support the claim. The link leads to a Semiconductor Industry Association (SIA) news roundup from May 23, 2025, which discusses various news articles related to th... [truncated]
+2025-06-27 13:56:37,122 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 13:56:37,841 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The provided result does not directly support the claim regarding the imposition of toll tax on two-wheelers by the central government. The given text is a news roundup about mental health issues in children and adolescents from May 23, 2025, and there is no mention of the central government's decision to impose toll tax on two-wheelers or any related topic within this document."
+   }
+2025-06-27 13:56:37,841 [INFO] Response status: 200
+2025-06-27 13:57:49,691 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 13:57:49,692 [INFO] Received Claim and Result
+2025-06-27 13:57:49,693 [INFO] Claim: A post is rapidly going viral on social media, claiming that the central government has decided to impose toll tax on two-wheelers. It is being presented as a move that will burden the common people, especially the middle class and economically weaker sections who primarily rely on two-wheelers for daily commuting. The post also claims that this new policy will be implemented starting July 15, and is being criticized for unfairly targeting those who are already financially vulnerable.
+2025-06-27 13:57:49,693 [INFO] Result: https://huggingface.co/datasets/wissamantoun/fineweb-edu-format-topic/viewerDatasets: wissamantoun / fineweb-edu-format-topic like 1 Dataset card Data Studio Files and versions xet Community 1 Split (1) train 1.42B rows train (1.42B rows) text stringlengths 150 592k id stringlengths 47 47 metadata dict No. 24; Updated March 2011 Click here to download and print a PDF version of this document. Parents are usually the first to recognize that their child has a problem with emotions or behavior. Sti... [truncated]
+2025-06-27 13:57:49,764 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 13:57:50,310 [INFO] Raw LLM Response: {
+     "supports_claim": false,
+     "explanation": "The result provided is a PDF document about parents recognizing and seeking help for emotional problems in children. The content does not mention any toll tax on two-wheelers, the central government, or any policy related to financial burden on the common people. Therefore, it does not support the claim."
+   }
+2025-06-27 13:57:50,310 [INFO] Response status: 200
+2025-06-27 13:57:50,367 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 13:57:50,368 [INFO] Received Claim and Result
+2025-06-27 13:57:50,368 [INFO] Claim: A post is rapidly going viral on social media, claiming that the central government has decided to impose toll tax on two-wheelers. It is being presented as a move that will burden the common people, especially the middle class and economically weaker sections who primarily rely on two-wheelers for daily commuting. The post also claims that this new policy will be implemented starting July 15, and is being criticized for unfairly targeting those who are already financially vulnerable.
+2025-06-27 13:57:50,369 [INFO] Result: https://www.semiconductors.org/sia-news-roundup/WSTS Login Contact Skip to content ABOUT SEMIS 101 POLICY MARKET DATA & RESOURCES NEWS & EVENTS SIA News Roundup The SIA News Roundup is sent out each Friday compiling relevant clips from the week. You can sign up to receive the SIA News Roundup here. May 23, 2025: OpenAI, UAE to build massive AI center in Abu Dhabi May 16, 2025: SIA Advocates for U.S. Trade Policies that Advance American Leadership in Semiconductors May 9, 2025: Global Semiconduct... [truncated]
+2025-06-27 13:57:50,451 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 13:57:51,452 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The result provided is a compilation of articles about semiconductors from the Semiconductor Industry Association (SIA) News Roundup for the month of May 23, 2025 to April 4, 2025. There is no mention or relevance to the claim regarding central government imposing toll tax on two-wheelers, burdening the common people or the timeline mentioned in the claim (July 15). The only potential link is the Global Semiconductor Sales Increase statistics but these figures do not have any direct correlation with the claim about toll taxes."
+   }
+2025-06-27 13:57:51,452 [INFO] Response status: 200
+2025-06-27 13:57:51,553 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 13:57:51,553 [INFO] Received Claim and Result
+2025-06-27 13:57:51,554 [INFO] Claim: A post is rapidly going viral on social media, claiming that the central government has decided to impose toll tax on two-wheelers. It is being presented as a move that will burden the common people, especially the middle class and economically weaker sections who primarily rely on two-wheelers for daily commuting. The post also claims that this new policy will be implemented starting July 15, and is being criticized for unfairly targeting those who are already financially vulnerable.
+2025-06-27 13:57:51,554 [INFO] Result: The result provided is a PDF document about parents recognizing and seeking help for emotional problems in children. The content does not mention any toll tax on two-wheelers, the central government, or any policy related to financial burden on the common people. Therefore, it does not support the claim.The result provided is a compilation of articles about semiconductors from the Semiconductor Industry Association (SIA) News Roundup for the month of May 23, 2025 to April 4, 2025. There is no me... [truncated]
+2025-06-27 13:57:51,594 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 13:57:52,423 [INFO] Raw LLM Response: {
+    "supports_claim": false,
+    "explanation": "The provided result is a PDF document discussing parents recognizing and seeking help for emotional problems in children. The content does not mention any toll tax on two-wheelers, the central government, or any policy related to financial burden on the common people. Therefore, it does not support the claim regarding the central government imposing toll tax on two-wheelers. The only potential link is a Global Semiconductor Sales Increase statistics but these figures do not have any direct correlation with the claim about toll taxes."
+  }
+2025-06-27 13:57:52,423 [INFO] Response status: 200
+2025-06-27 13:59:32,226 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 13:59:32,227 [INFO] Received Claim and Result
+2025-06-27 13:59:32,227 [INFO] Claim: USA lost the war against Iran in 2025
+2025-06-27 13:59:32,227 [INFO] Result: https://en.wikipedia.org/wiki/Iran%E2%80%93Israel_proxy_conflictJump to content Main menu Search Donate Create account Log in Personal tools Wiki Loves Earth photo contest: Upload photos of natural heritage sites in India to help Wikipedia and win fantastic prizes! Contents hide (Top) International responsesBackground History Toggle History subsection Iranian supporters and alleged proxies Toggle Iranian supporters and alleged proxies subsection Israeli supporters and alleged proxies Toggle Isra... [truncated]
+2025-06-27 13:59:32,316 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 13:59:33,075 [INFO] Raw LLM Response: {
+  "supports_claim": false,
+  "explanation": "The provided link leads to an article about the ongoing Iran-Israel proxy conflict which started back in 1985. There is no mention or evidence suggesting that the USA lost a war against Iran in 2025. Rather, the conflict discussed in the article pertains to events dating from 1985 and ongoing, with no specific reference to a war between the USA and Iran in 2025."
+}
+2025-06-27 13:59:33,075 [INFO] Response status: 200
+2025-06-27 13:59:33,130 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 13:59:33,131 [INFO] Received Claim and Result
+2025-06-27 13:59:33,131 [INFO] Claim: USA lost the war against Iran in 2025
+2025-06-27 13:59:33,131 [INFO] Result: https://www.understandingwar.org/Skip to main content Search form Search Who We Are Research Publications Get Involved Planned Giving Donate Russia's Weakness Offers Leverage The United States can use the enormous challenges Russia will face in 2025 as leverage to secure critical concessions in ongoing negotiations to end the war by continuing and even expanding military support to Ukraine. Lessons of the Minsk Deal: Breaking the Cycle of Russia s War Against Ukraine Some peace deals lead to pea... [truncated]
+2025-06-27 13:59:33,188 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 13:59:33,959 [INFO] Raw LLM Response: {
+    "supports_claim": false,
+    "explanation": "The result from the International Security of Washington (ISW) does not support the claim that USA lost the war against Iran in 2025. Instead, it discusses ongoing nuclear negotiations between the USA and Iran, the potential deployment of North Korean troops to Ukrainian territory, and tensions in Tigray region of Ethiopia. There is no mention or indication in this result about a war loss by the USA against Iran."
+   }
+2025-06-27 13:59:33,959 [INFO] Response status: 200
+2025-06-27 13:59:33,980 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 13:59:33,981 [INFO] Received Claim and Result
+2025-06-27 13:59:33,981 [INFO] Claim: USA lost the war against Iran in 2025
+2025-06-27 13:59:33,981 [INFO] Result: https://www.npr.org/podcasts/510318/up-firstNEWSLETTERS NPR SHOP NEWS CULTURE MUSIC PODCASTS & SHOWS SEARCH Podcast Directory Categories Sponsors And Promo Codes podcasts daily news Up First from NPR From NPR NPR's Up First is the news you need to start your day. The three biggest stories of the day, with reporting and analysis from NPR News in 10 minutes. Available weekdays at 6:30 a.m. ET, with hosts Leila Fadel, Steve Inskeep, Michel Martin and A Martinez. Also available on Saturdays at 9 a.m... [truncated]
+2025-06-27 13:59:34,042 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 13:59:34,844 [INFO] Raw LLM Response: {
+    "supports_claim": false,
+    "explanation": "The result provided is a news summary from NPR Up First podcast for June 26, 2025. The key points mentioned in this episode are: President Trump's warmer view of NATO, the release of Kilmar Abrego Garcia, and roadblocks faced by Senate Republicans in passing President Trump's policy bill. There is no mention or implication that the USA lost a war against Iran during 2025."
+   }
+2025-06-27 13:59:34,844 [INFO] Response status: 200
+2025-06-27 13:59:34,881 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 13:59:34,881 [INFO] Received Claim and Result
+2025-06-27 13:59:34,881 [INFO] Claim: USA lost the war against Iran in 2025
+2025-06-27 13:59:34,881 [INFO] Result: https://www.nytimes.com/section/opinion/contributors?page=2SKIP TO CONTENT SKIP TO SITE INDEX SECTION NAVIGATION SEARCH SUBSCRIBE FOR 25/WEEK LOG IN Opinion Guest Essays Latest Search GUEST ESSAY Israel Has Proved Its Military Might. It s Not Enough. This is the moment for Israel to move on from intense military operations to political statecraft. By AMI AYALON, GILEAD SHER and ORNI PETRUSCHKA June 27, 2025 GUEST ESSAY How the Gay Rights Movement Radicalized, and Lost Its Way How the Gay Rights ... [truncated]
+2025-06-27 13:59:34,940 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 13:59:35,680 [INFO] Raw LLM Response: {
+    "supports_claim": false,
+    "explanation": "The result is a collection of opinion essays from the New York Times about various topics such as Israel's military might, the Gay Rights Movement, the Iranian leader's strategy, Democratic leadership, Trump and athletes, and the Republican megabill. None of these essays provide factual evidence or analysis about a war between USA and Iran in 2025, so they do not support nor contradict the claim."
+   }
+2025-06-27 13:59:35,680 [INFO] Response status: 200
+2025-06-27 13:59:35,798 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 13:59:35,798 [INFO] Received Claim and Result
+2025-06-27 13:59:35,798 [INFO] Claim: USA lost the war against Iran in 2025
+2025-06-27 13:59:35,798 [INFO] Result: https://www.washingtoninstitute.org/Skip to main content Homepage Main navigation ANALYSIS EXPERTS ABOUT SUPPORT MAPS & MULTIMEDIA TRENDING: Military & Security Proliferation / Israel Iran Lebanon Syria Toggle List of All Regions & Issues SEARCH POLICY ANALYSIS TWI English TWI Arabic: Fikra Forum Institute Analysis of the Iran-Israel-U.S. Confrontation VIDEO The Bigger Picture in the Iran-Israel Conflict: Russia, Missiles, Militias, and More Four experts assess how outside players might respond ... [truncated]
+2025-06-27 13:59:35,859 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 13:59:36,777 [INFO] Raw LLM Response: {
+    "supports_claim": false,
+    "explanation": "The result provided is an analysis from The Washington Institute, which does not directly address the claim that the USA lost the war against Iran in 2025. However, it contains several video analyses discussing various aspects of the Iran-Israel-US confrontation, such as military tactics, procurement, and potential postwar opportunities and risks for US policy in the Middle East. These videos do not suggest that the USA lost a war against Iran in 2025. The provided link contains no evidence to support the claim."
+   }
+2025-06-27 13:59:36,777 [INFO] Response status: 200
+2025-06-27 13:59:36,825 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 13:59:36,826 [INFO] Received Claim and Result
+2025-06-27 13:59:36,826 [INFO] Claim: USA lost the war against Iran in 2025
+2025-06-27 13:59:36,826 [INFO] Result: The provided link leads to an article about the ongoing Iran-Israel proxy conflict which started back in 1985. There is no mention or evidence suggesting that the USA lost a war against Iran in 2025. Rather, the conflict discussed in the article pertains to events dating from 1985 and ongoing, with no specific reference to a war between the USA and Iran in 2025.The result from the International Security of Washington (ISW) does not support the claim that USA lost the war against Iran in 2025. In... [truncated]
+2025-06-27 13:59:36,884 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 13:59:38,055 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The result does not contain any factual or logical evidence suggesting that the USA lost a war against Iran in 2025. The articles and news summaries discussed ongoing conflicts (Iran-Israel proxy conflict since 1985, nuclear negotiations between the USA and Iran, tensions in Tigray region of Ethiopia), President Trump's policy bills, opinion essays on various topics, and an analysis on military tactics, procurement, and potential postwar opportunities and risks for US policy in the Middle East from The Washington Institute. Since none of these provide evidence or imply a war loss by the USA against Iran in 2025, they do not support nor contradict the claim."
+   }
+2025-06-27 13:59:38,055 [INFO] Response status: 200
+2025-06-27 14:03:09,403 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 14:03:09,404 [INFO] Received Claim and Result
+2025-06-27 14:03:09,404 [INFO] Claim: NHAI imposes tax on two whellers
+2025-06-27 14:03:09,404 [INFO] Result: https://daijiworld.com/index.php/news/newsDisplay?newsID=1284590Home News Obituary Recipes Charity Special ಕನ್ನಡ Live TV RADIO Advertise Matrimonial Properties Jobs Classifieds Red Chillies Music Ask Dr Greetings Astrology Tribute Of Love LATEST Man arrested in Koppal 23 years after murdering third wife Fri, Jun 27 Dispute between auto-rickshaw drivers in Udupi leads to police cases against both parties Fri, Jun 27 Moti Mahal College of Hotel Management, Mangaluru - Cultivating global hospitalit... [truncated]
+2025-06-27 14:03:09,476 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 14:03:10,205 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The result provided by the link [https://daijiworld.com/index.php/news/newsDisplay?newsID=1284590] clearly states that the National Highways Authority of India (NHAI) has denied recent media reports suggesting that two-wheelers would soon be subject to toll charges. This contradicts the claim that NHAI imposes tax on two wheelers."
+   }
+2025-06-27 14:03:10,205 [INFO] Response status: 200
+2025-06-27 14:03:10,268 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 14:03:10,269 [INFO] Received Claim and Result
+2025-06-27 14:03:10,269 [INFO] Claim: NHAI imposes tax on two whellers
+2025-06-27 14:03:10,269 [INFO] Result: https://kashmirreader.com/2025/06/27/gadkari-slams-baseless-media-reports-on-two-wheeler-toll/Home About Us Advertising Contact Us Our Team Privacy Policy Terms of Service 30.3 C Srinagar KASHMIR READER Friday, June 27, 2025 HOME NEWS BUSINESS EDITORIAL OPINION SPORTS GALLERY BUSINESS Gadkari slams baseless media reports on two-wheeler toll By Agencies 9:18 am June 27, 2025 0 0 Share Must read LinkedIn CEO on AI killing jobs 9:01 am June 25, 2025 IUST signs MoU with Fatima Foundation 9:19 am Jun... [truncated]
+2025-06-27 14:03:10,351 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 14:03:11,221 [INFO] Raw LLM Response: {
+    "supports_claim": false,
+    "explanation": "The result provided by the link https://kashmirreader.com/2025/06/27/gadkari-slams-baseless-media-reports-on-two-wheeler-toll/ states that the Union minister for road transport and highways Nitin Gadkari has refuted claims of imposing toll tax on two-wheelers. Therefore, this result contradicts the claim that 'NHAI imposes tax on two wheelers'."
+  }
+2025-06-27 14:03:11,222 [INFO] Response status: 200
+2025-06-27 14:03:11,278 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 14:03:11,279 [INFO] Received Claim and Result
+2025-06-27 14:03:11,279 [INFO] Claim: NHAI imposes tax on two whellers
+2025-06-27 14:03:11,279 [INFO] Result: https://www.timesbull.com/business/toll-tax-will-be-imposed-on-two-wheelers-too-530228.htmltimesbull Timesbull Timesbull Home Photos Videos Web Stories Live Blog Shorts Youtube Videos For You Whatsapp Business Gadgets Auto Hindi News India Sports Astrology Education Entertainment Health jobs Recipes lifestyle World State State Search Home Business Toll tax will be imposed on two wheelers too! Nitin Gadkari told the truth Toll tax will be imposed on two wheelers too! Nitin Gadkari told the truth ... [truncated]
+2025-06-27 14:03:11,348 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 14:03:12,130 [INFO] Raw LLM Response: {
+    "supports_claim": false,
+    "explanation": "The result does not support the claim that NHAI imposes tax on two wheelers. Instead, it states that there is a discussion on social media about the possibility of imposing toll tax on two-wheelers, but it also clarifies that the government already imposes toll tax on large vehicles, including four-wheelers. The Minister and NHAI have expressed their disapproval or surprise regarding this news, indicating that no such decision has been made."
+  }
+2025-06-27 14:03:12,130 [INFO] Response status: 200
+2025-06-27 14:03:12,149 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 14:03:12,150 [INFO] Received Claim and Result
+2025-06-27 14:03:12,150 [INFO] Claim: NHAI imposes tax on two whellers
+2025-06-27 14:03:12,150 [INFO] Result: https://www.91wheels.com/news/toll-tax-on-2-wheelers-after-rs-3000-annual-toll-pass-for-cars-mr-nitin-gadkari-clarifiesNoida CARS BIKES SCOOTERS USED CARS SELL CARS COMPARE NEWS & REVIEWS MORE Ad Toll Tax On 2-Wheelers After Rs. 3,000 Annual Toll Pass For Cars? Mr. Nitin Gadkari Clarifies! By:Arjun Sharma Updated On: June 27, 2025 10:16 IST KEY HIGHLIGHTS Rumours regarding toll tax on two-wheelers Came up after the annual FASTag pass was announced for private four-wheelers Mr. Nitin Gadkari clea... [truncated]
+2025-06-27 14:03:12,210 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 14:03:12,716 [INFO] Raw LLM Response: {
+  "supports_claim": false,
+  "explanation": "The result provided is a news article reporting that Mr. Nitin Gadkari has clarified and denied any rumors about toll tax on two-wheelers. This denial contradicts the claim that NHAI imposes tax on two wheelers."
+}
+2025-06-27 14:03:12,716 [INFO] Response status: 200
+2025-06-27 14:03:12,735 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 14:03:12,735 [INFO] Received Claim and Result
+2025-06-27 14:03:12,735 [INFO] Claim: NHAI imposes tax on two whellers
+2025-06-27 14:03:12,735 [INFO] Result: https://en.newsviewer.in/no-toll-tax-on-two-wheelers-confirms-union-minister-amid-rumors/Skip to content News Viewer English See the News, Know the Truth Privacy Policy No Toll Tax on Two-Wheelers, Confirms Union Minister Amid Rumors June 27, 2025 by NewsViewer Desk No Toll Tax on Two-Wheelers, Confirms Union Minister Amid Rumors In response to recent viral reports claiming that toll tax will be applicable on two-wheelers from July 15, 2025, Union Minister for Road Transport and Highways Nitin G... [truncated]
+2025-06-27 14:03:12,836 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 14:03:13,491 [INFO] Raw LLM Response: {
+    "supports_claim": false,
+    "explanation": "The provided result states that Union Minister for Road Transport and Highways Nitin Gadkari has issued a clarification denying the claims of imposing toll tax on two-wheelers. The article further provides evidence in the form of the minister's statement on social media, dismissing any such decision. Therefore, the result contradicts the given claim."
+  }
+2025-06-27 14:03:13,491 [INFO] Response status: 200
+2025-06-27 14:03:13,606 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 14:03:13,607 [INFO] Received Claim and Result
+2025-06-27 14:03:13,607 [INFO] Claim: NHAI imposes tax on two whellers
+2025-06-27 14:03:13,607 [INFO] Result: https://www.msn.com/en-in/money/markets/toll-tax-for-two-wheelers-union-minister-nitin-gadkari-dismisses-viral-reports/ar-AA1HsPH9Upgrade your Chrome browser with MSN New Tab Get localized weather, trending news, AI powered search and more Close Add it now Skip to content Skip to footer D dri 35 C Discover Following Money My Watchlist Markets Expert Portfolios Cryptocurrencies Headlines Watchlist Ideas Currency Converter Gadgets Careers Investing Personalize Sponsored ET Now Follow 102.5K Follow... [truncated]
+2025-06-27 14:03:13,666 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 14:03:14,355 [INFO] Raw LLM Response: {
+    "supports_claim": false,
+    "explanation": "The result provided is a news article where Union Minister Nitin Gadkari has dismissed reports suggesting that the Government of India plans to levy toll tax on two-wheelers. The key evidence supporting this claim is the statement made by the Minister himself: 'No such decision has been proposed.' This directly contradicts the initial claim that NHAI imposes tax on two wheelers."
+  }
+2025-06-27 14:03:14,355 [INFO] Response status: 200
+2025-06-27 14:03:14,425 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 14:03:14,426 [INFO] Received Claim and Result
+2025-06-27 14:03:14,426 [INFO] Claim: NHAI imposes tax on two whellers
+2025-06-27 14:03:14,426 [INFO] Result: The result provided by the link [https://daijiworld.com/index.php/news/newsDisplay?newsID=1284590] clearly states that the National Highways Authority of India (NHAI) has denied recent media reports suggesting that two-wheelers would soon be subject to toll charges. This contradicts the claim that NHAI imposes tax on two wheelers.The result provided by the link https://kashmirreader.com/2025/06/27/gadkari-slams-baseless-media-reports-on-two-wheeler-toll/ states that the Union minister for road t... [truncated]
+2025-06-27 14:03:14,500 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 14:03:15,211 [INFO] Raw LLM Response: {
+    "supports_claim": false,
+    "explanation": "The provided results clearly state that National Highways Authority of India (NHAI) and Union Minister for Road Transport and Highways Nitin Gadkari have denied the claim suggesting that they impose tax on two-wheelers. They have explicitly stated that no such decision has been made or proposed. This directly contradicts the initial claim that 'NHAI imposes tax on two wheelers'."
+  }
+2025-06-27 14:03:15,211 [INFO] Response status: 200
+2025-06-27 15:10:52,851 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 15:10:52,852 [INFO] Received Claim and Result
+2025-06-27 15:10:52,852 [INFO] Claim: A post is rapidly going viral on social media, claiming that the central government has decided to impose toll tax on two-wheelers. It is being presented as a move that will burden the common people, especially the middle class and economically weaker sections who primarily rely on two-wheelers for daily commuting. The post also claims that this new policy will be implemented starting July 15, and is being criticized for unfairly targeting those who are already financially vulnerable.
+2025-06-27 15:10:52,853 [INFO] Result: https://huggingface.co/datasets/wissamantoun/fineweb-edu-format-topic/viewerDatasets: wissamantoun / fineweb-edu-format-topic like 1 Dataset card Data Studio Files and versions xet Community 1 Split (1) train 1.42B rows train (1.42B rows) text stringlengths 150 592k id stringlengths 47 47 metadata dict No. 24; Updated March 2011 Click here to download and print a PDF version of this document. Parents are usually the first to recognize that their child has a problem with emotions or behavior. Sti... [truncated]
+2025-06-27 15:10:53,943 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 15:10:54,744 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The result provided does not contain any information regarding a central government's decision to impose toll tax on two-wheelers. Instead, it discusses a different topic: signs indicating the need for a child and adolescent psychiatric evaluation. The text highlights common problems children might face, such as poor grades, anxiety, hyperactivity, and persistent disobedience, but there is no mention or implication of any financial policy related to two-wheelers."
+   }
+2025-06-27 15:10:54,744 [INFO] Response status: 200
+2025-06-27 15:10:54,808 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 15:10:54,809 [INFO] Received Claim and Result
+2025-06-27 15:10:54,809 [INFO] Claim: A post is rapidly going viral on social media, claiming that the central government has decided to impose toll tax on two-wheelers. It is being presented as a move that will burden the common people, especially the middle class and economically weaker sections who primarily rely on two-wheelers for daily commuting. The post also claims that this new policy will be implemented starting July 15, and is being criticized for unfairly targeting those who are already financially vulnerable.
+2025-06-27 15:10:54,809 [INFO] Result: https://www.semiconductors.org/sia-news-roundup/WSTS Login Contact Skip to content ABOUT SEMIS 101 POLICY MARKET DATA & RESOURCES NEWS & EVENTS SIA News Roundup The SIA News Roundup is sent out each Friday compiling relevant clips from the week. You can sign up to receive the SIA News Roundup here. May 23, 2025: OpenAI, UAE to build massive AI center in Abu Dhabi May 16, 2025: SIA Advocates for U.S. Trade Policies that Advance American Leadership in Semiconductors May 9, 2025: Global Semiconduct... [truncated]
+2025-06-27 15:10:54,886 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 15:10:55,447 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The result provided does not support the claim about the central government imposing toll tax on two-wheelers. The content of the link refers to a news roundup about semiconductors and trade policies related to them, with no mention or relation to the imposed toll tax on two-wheelers."
+   }
+2025-06-27 15:10:55,447 [INFO] Response status: 200
+2025-06-27 15:10:55,538 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 15:10:55,539 [INFO] Received Claim and Result
+2025-06-27 15:10:55,539 [INFO] Claim: A post is rapidly going viral on social media, claiming that the central government has decided to impose toll tax on two-wheelers. It is being presented as a move that will burden the common people, especially the middle class and economically weaker sections who primarily rely on two-wheelers for daily commuting. The post also claims that this new policy will be implemented starting July 15, and is being criticized for unfairly targeting those who are already financially vulnerable.
+2025-06-27 15:10:55,539 [INFO] Result: The result provided does not contain any information regarding a central government's decision to impose toll tax on two-wheelers. Instead, it discusses a different topic: signs indicating the need for a child and adolescent psychiatric evaluation. The text highlights common problems children might face, such as poor grades, anxiety, hyperactivity, and persistent disobedience, but there is no mention or implication of any financial policy related to two-wheelers.The result provided does not supp... [truncated]
+2025-06-27 15:10:55,583 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 15:10:56,265 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The result does not contain any information about a central government's decision to impose toll tax on two-wheelers. Instead, it discusses a completely unrelated topic: child and adolescent psychiatric evaluations. The provided link refers to news roundup about semiconductors and trade policies related to them, with no mention or relation to the imposed toll tax on two-wheelers."
+   }
+2025-06-27 15:10:56,265 [INFO] Response status: 200
+2025-06-27 15:16:13,145 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 15:16:13,146 [INFO] Received Claim and Result
+2025-06-27 15:16:13,146 [INFO] Claim: A post is rapidly going viral on social media, claiming that the central government has decided to impose toll tax on two-wheelers. It is being presented as a move that will burden the common people, especially the middle class and economically weaker sections who primarily rely on two-wheelers for daily commuting. The post also claims that this new policy will be implemented starting July 15, and is being criticized for unfairly targeting those who are already financially vulnerable.
+2025-06-27 15:16:13,146 [INFO] Result: ... [truncated]
+2025-06-27 15:16:14,175 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 15:16:14,905 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The result from Times of India disproves the claim. The article states that there is no such decision made by the central government to impose toll tax on two-wheelers as claimed in the viral post. In fact, the Ministry of Road Transport and Highways has clarified this misinformation. No mention of the date, July 15, or any specific implementation details regarding the alleged policy was found."
+   }
+2025-06-27 15:16:14,905 [INFO] Response status: 200
+2025-06-27 15:20:12,673 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 15:20:12,674 [INFO] Received Claim and Result
+2025-06-27 15:20:12,674 [INFO] Claim: A post is rapidly going viral on social media, claiming that the central government has decided to impose toll tax on two-wheelers. It is being presented as a move that will burden the common people, especially the middle class and economically weaker sections who primarily rely on two-wheelers for daily commuting. The post also claims that this new policy will be implemented starting July 15, and is being criticized for unfairly targeting those who are already financially vulnerable.
+2025-06-27 15:20:12,674 [INFO] Result: ... [truncated]
+2025-06-27 15:20:12,712 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 15:20:13,803 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The result from the article on 'The Times of India' does not support the claim that the central government has decided to impose toll tax on two-wheelers as of July 15. The article states that the Union Ministry of Road Transport and Highways is considering a proposal to impose variable toll on four-wheeler vehicles using FASTags, but there is no mention about two-wheelers being targeted. This is significant because the claim was about the imposition of toll tax on two-wheelers and not four-wheelers. The article mentions that the ministry is inviting comments from stakeholders to finalize the proposal, suggesting that a decision has not yet been made."
+   }
+2025-06-27 15:20:13,804 [INFO] Response status: 200
+2025-06-27 15:21:01,299 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 15:21:01,300 [INFO] Received Claim and Result
+2025-06-27 15:21:01,301 [INFO] Claim: A post is rapidly going viral on social media, claiming that the central government has decided to impose toll tax on two-wheelers. It is being presented as a move that will burden the common people, especially the middle class and economically weaker sections who primarily rely on two-wheelers for daily commuting. The post also claims that this new policy will be implemented starting July 15, and is being criticized for unfairly targeting those who are already financially vulnerable.
+2025-06-27 15:21:01,301 [INFO] Result: ... [truncated]
+2025-06-27 15:21:01,337 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 15:21:02,295 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The result does not support the claim. The post circulating on social media claims that the central government has decided to impose toll tax on two-wheelers. However, the result (a Hindustan Times article from July 14, 2023) states that there is no such decision made by the central government regarding toll tax on two-wheelers. The article does mention that there were discussions about levying congestion charges in some cities to reduce traffic congestion and improve air quality, but these discussions are not related to a toll tax on two-wheelers."
+   }
+2025-06-27 15:21:02,295 [INFO] Response status: 200
+2025-06-27 15:25:17,272 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 15:25:17,272 [INFO] Received Claim and Result
+2025-06-27 15:25:17,272 [INFO] Claim: A video is rapidly going viral on social media, shared by users. In the video, some people can be seen constructing a bridge, when suddenly the bridge collapses and they get trapped underneath. Some users are sharing this video, believing it to be a real incident. It is being claimed that the incident took place in Chhapra, Bihar. The video is also being used to criticize the government
+2025-06-27 15:25:17,272 [INFO] Result: ... [truncated]
+2025-06-27 15:25:17,300 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 15:25:18,072 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The claim states that the viral video of a bridge collapse and its subsequent criticism of the government took place in Chhapra, Bihar. However, the result does not provide any information to support this location claim. The result only mentions that some users are sharing the video, but it does not confirm whether the incident occurred in Chhapra or not. Therefore, the result is neutral toward the claim."
+   }
+2025-06-27 15:25:18,072 [INFO] Response status: 200
+2025-06-27 15:27:04,203 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 15:27:04,203 [INFO] Received Claim and Result
+2025-06-27 15:27:04,203 [INFO] Claim: A video is rapidly going viral on social media, shared by users. In the video, some people can be seen constructing a bridge, when suddenly the bridge collapses and they get trapped underneath. Some users are sharing this video, believing it to be a real incident. It is being claimed that the incident took place in Chhapra, Bihar. The video is also being used to criticize the government
+2025-06-27 15:27:04,203 [INFO] Result: ... [truncated]
+2025-06-27 15:27:04,236 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 15:27:05,530 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The claim states that the video of a bridge collapse allegedly happened in Chhapra, Bihar. However, the result provides no evidence or information that supports this location. The video could be from any other place as there is no contextual or geographical data provided. Therefore, it contradicts the claim."
+   }
+2025-06-27 15:27:05,530 [INFO] Response status: 200
+2025-06-27 15:27:57,252 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 15:27:57,253 [INFO] Received Claim and Result
+2025-06-27 15:27:57,253 [INFO] Claim: A video is rapidly going viral on social media, shared by users. In the video, some people can be seen constructing a bridge, when suddenly the bridge collapses and they get trapped underneath. Some users are sharing this video, believing it to be a real incident. It is being claimed that the incident took place in Chhapra, Bihar. The video is also being used to criticize the government
+2025-06-27 15:27:57,253 [INFO] Result: ... [truncated]
+2025-06-27 15:27:57,288 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 15:27:58,313 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The result does not support the claim directly. The video described in the claim appears to show a bridge collapse incident, but the result does not provide any specific information that verifies this took place in Chhapra, Bihar as claimed. Additionally, there is no evidence presented in the result that confirms the video is real or being shared on social media by users. Lastly, while it's mentioned that the video is used to criticize the government, there's no indication of which government the criticism is targeted at, making it impossible to verify whether this is a viral incident in Chhapra, Bihar."
+   }
+2025-06-27 15:27:58,314 [INFO] Response status: 200
+2025-06-27 15:28:48,242 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 15:28:48,243 [INFO] Received Claim and Result
+2025-06-27 15:28:48,244 [INFO] Claim: Some users are sharing this video, believing it to be a real incident. It is being claimed that the incident took place in Chhapra, Bihar. The video is also being used to criticize the government.
+2025-06-27 15:28:48,244 [INFO] Result: ... [truncated]
+2025-06-27 15:28:48,282 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 15:28:49,183 [INFO] Raw LLM Response: {
+      "supports_claim": true,
+      "explanation": "The result supports the claim in several ways. Firstly, it indicates that users are indeed sharing the video with the belief that it depicts a real incident (supporting the first part of the claim). Secondly, the claim states that the incident is being claimed to have taken place in Chhapra, Bihar, and while the result does not explicitly state this location, it doesn't contradict it either. Lastly, the video is being used to criticize the government, which aligns with the third part of the claim."
+   }
+2025-06-27 15:28:49,183 [INFO] Response status: 200
+2025-06-27 15:31:20,010 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 15:31:20,011 [INFO] Received Claim and Result
+2025-06-27 15:31:20,011 [INFO] Claim: Narendra Modi never married in his life
+2025-06-27 15:31:20,011 [INFO] Result: https://en.wikipedia.org/wiki/Jashodaben_ModiJump to content Main menu Search Donate Create account Log in Personal tools Wiki Loves Earth photo contest: Upload photos of natural heritage sites in India to help Wikipedia and win fantastic prizes! Contents hide (Top) Early life, marriage, and career Public discussion of marriage Media appearances and political activities Request for information on security detail References External links Jashodaben Modi 10 languages Article Talk Read Edit View h... [truncated]
+2025-06-27 15:31:20,082 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 15:31:20,866 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The provided result discusses the married life of Narendra Modi and his estranged wife Jashodaben. According to the text, Jashodaben is 'the estranged wife of Narendra Modi' and was married to him in 1968 when she was about 16 and Modi was 18. The fact that they were married disproves the claim that he never married in his life."
+   }
+2025-06-27 15:31:20,867 [INFO] Response status: 200
+2025-06-27 15:31:20,920 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 15:31:20,921 [INFO] Received Claim and Result
+2025-06-27 15:31:20,922 [INFO] Claim: Narendra Modi never married in his life
+2025-06-27 15:31:20,922 [INFO] Result: https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-rekhas-father-said-she-messed-up-by-getting-involved-with-amitabh-bachchan-it-became-the-biggest-scandal-in-the-industry-/articleshow/120810816.cmsDelhi NCR (Delhi)Powered by Delhi Times + 2 More Sign In Go to TOI Etimes Home Cinema News Movie Reviews Movie Listings Box Office Anime Previews Did You Know Videos Hindi English Tamil Telugu Malayalam Kannada Bengali Punjabi Marathi Bhojpuri Gujarati News Entertainment Hindi... [truncated]
+2025-06-27 15:31:21,008 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 15:31:21,788 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The result provides information about the alleged love story between Narendra Modi (who is a political leader) and Rekha (a Bollywood actress), which has no bearing on whether Modi has ever married or not. The article discusses Gemini Ganesan, Rekha's father, acknowledging rumors of her relationship with Amitabh Bachchan but does not provide any information about Modi's marital status."
+   }
+2025-06-27 15:31:21,788 [INFO] Response status: 200
+2025-06-27 15:31:21,814 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 15:31:21,814 [INFO] Received Claim and Result
+2025-06-27 15:31:21,814 [INFO] Claim: Narendra Modi never married in his life
+2025-06-27 15:31:21,814 [INFO] Result: https://www.theatlantic.com/magazine/archive/2025/02/modi-nationalism-demagoguery-limitations/681094/SKIP TO CONTENT Site Navigation The Atlantic Popular Latest Newsletters Sign In Subscribe February 2025 Issue EXPLORE GLOBAL NARENDRA MODI S POPULIST FACADE IS CRACKING India is now a testing ground for whether demagoguery or deteriorating living conditions exert a greater sway on voters. By Robert F. Worth Illustration by The Atlantic. Source: DPA Picture-Alliance / Alamy. JANUARY 2, 2025 SHARE ... [truncated]
+2025-06-27 15:31:21,872 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 15:31:22,697 [INFO] Raw LLM Response: {
+    "supports_claim": false,
+    "explanation": "The result does not directly support or contradict the claim as it does not provide any information about Narendra Modi's marital status. However, the article does mention that Modi was addressing an elite audience in Ayodhya in 2024, which indirectly implies that he had reached a stage in life where marriage is generally expected (given societal norms). Therefore, this evidence can be considered as neutral but slightly leaning towards contradicting the claim."
+   }
+2025-06-27 15:31:22,698 [INFO] Response status: 200
+2025-06-27 15:31:22,787 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 15:31:22,788 [INFO] Received Claim and Result
+2025-06-27 15:31:22,788 [INFO] Claim: Narendra Modi never married in his life
+2025-06-27 15:31:22,788 [INFO] Result: The provided result discusses the married life of Narendra Modi and his estranged wife Jashodaben. According to the text, Jashodaben is 'the estranged wife of Narendra Modi' and was married to him in 1968 when she was about 16 and Modi was 18. The fact that they were married disproves the claim that he never married in his life.The result provides information about the alleged love story between Narendra Modi (who is a political leader) and Rekha (a Bollywood actress), which has no bearing on wh... [truncated]
+2025-06-27 15:31:22,848 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 15:31:24,164 [INFO] Raw LLM Response: {
+  "supports_claim": false,
+  "explanation": "The result discusses the married life of Narendra Modi and his estranged wife Jashodaben, which proves that he has been married in his life. However, the article also mentions a love story between Narendra Modi (a political leader) and Rekha (a Bollywood actress), but this information does not impact the claim about his marital status. The reference to Gemini Ganesan acknowledging rumors of Rekha's relationship with Amitabh Bachchan also has no bearing on Narendra Modi's marital status. Lastly, the mention of Modi addressing an elite audience in Ayodhya in 2024 implies that he had reached a stage in life where marriage is generally expected, but this does not directly provide evidence for or against the claim."
+}
+2025-06-27 15:31:24,164 [INFO] Response status: 200
+2025-06-27 15:39:20,995 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 15:39:20,996 [INFO] Received Claim and Result
+2025-06-27 15:39:20,996 [INFO] Claim: On Thursday morning, both mainstream media and social media platforms began circulating a news report claiming that, starting 15 July 2025, toll tax would be imposed on two-wheelers using national highways. The report sparked public outrage, with many condemning the alleged move as extortion and a form of tax terrorism by the government
+2025-06-27 15:39:20,996 [INFO] Result: ... [truncated]
+2025-06-27 15:39:22,035 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 15:39:22,711 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The result does not support the claim as it provides no factual evidence or confirmation that the toll tax for two-wheelers on national highways will indeed be imposed starting from 15th July 2025. The news report is being circulated and causing public outrage, but it does not provide any official source or citation to substantiate the claim."
+   }
+2025-06-27 15:39:22,712 [INFO] Response status: 200
+2025-06-27 15:41:21,204 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 15:41:21,205 [INFO] Received Claim and Result
+2025-06-27 15:41:21,206 [INFO] Claim: On Thursday morning, both mainstream media and social media platforms began circulating a news report claiming that, starting 15 July 2025, toll tax would be imposed on two-wheelers using national highways. The report sparked public outrage, with many condemning the alleged move as extortion and a form of tax terrorism by the government
+2025-06-27 15:41:21,206 [INFO] Result: https://onlyfact.in/viral-claim-about-toll-tax-on-two-wheelers-on-national-highways-is-fake/We value your privacy We use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. By clicking "Accept All", you consent to our use of cookies. Customize Reject All Accept All Politics History Religion Special International Lok Sabha Election 2024 Donate हिंदी Home Others Viral Claim About Toll Tax on Two-Wheelers on National Highways Is Fake Viral Claim ... [truncated]
+2025-06-27 15:41:21,288 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 15:41:21,988 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The result provided by OnlyFact.in debunks the claim that toll tax will be imposed on two-wheelers using national highways starting 15 July 2025. The article states that the claim is fake and refers to multiple instances where the claim was circulated in the past but did not materialize. No evidence supporting the imposition of such a tax was found."
+   }
+2025-06-27 15:41:21,989 [INFO] Response status: 200
+2025-06-27 15:41:22,045 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 15:41:22,046 [INFO] Received Claim and Result
+2025-06-27 15:41:22,046 [INFO] Claim: On Thursday morning, both mainstream media and social media platforms began circulating a news report claiming that, starting 15 July 2025, toll tax would be imposed on two-wheelers using national highways. The report sparked public outrage, with many condemning the alleged move as extortion and a form of tax terrorism by the government
+2025-06-27 15:41:22,046 [INFO] Result: The result provided by OnlyFact.in debunks the claim that toll tax will be imposed on two-wheelers using national highways starting 15 July 2025. The article states that the claim is fake and refers to multiple instances where the claim was circulated in the past but did not materialize. No evidence supporting the imposition of such a tax was found.... [truncated]
+2025-06-27 15:41:22,072 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 15:41:22,810 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The provided result by OnlyFact.in debunks the claim that toll tax will be imposed on two-wheelers using national highways starting 15 July 2025. The article refers to multiple instances where the same claim was circulated in the past but did not materialize, stating it as fake news. The article provides no evidence supporting the imposition of such a tax, thus contradicting the original claim."
+   }
+2025-06-27 15:41:22,811 [INFO] Response status: 200
+2025-06-27 15:42:04,682 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 15:42:04,683 [INFO] Received Claim and Result
+2025-06-27 15:42:04,683 [INFO] Claim: A post is rapidly going viral on social media, claiming that the central government has decided to impose toll tax on two-wheelers. It is being presented as a move that will burden the common people, especially the middle class and economically weaker sections who primarily rely on two-wheelers for daily commuting. The post also claims that this new policy will be implemented starting July 15, and is being criticized for unfairly targeting those who are already financially vulnerable
+2025-06-27 15:42:04,683 [INFO] Result: ... [truncated]
+2025-06-27 15:42:04,715 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 15:42:05,711 [INFO] Raw LLM Response: {
+      "supports_claim": false,
+      "explanation": "The result provides a link to an article from The Times of India (<https://timesofindia.indiatimes.com/city/delhi/no-central-govt-decision-to-impose-toll-on-two-wheelers-yet/articleshow/78134569.cms>). The article states that there is no central government decision yet regarding the imposition of toll tax on two-wheelers, contradicting the claim that such a policy has been announced. Therefore, the post being shared on social media is false."
+   }
+2025-06-27 15:42:05,711 [INFO] Response status: 200
+2025-06-27 15:43:11,677 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 15:43:11,678 [INFO] Received Claim and Result
+2025-06-27 15:43:11,678 [INFO] Claim: A video is rapidly going viral on social media, shared by users. In the video, some people can be seen constructing a bridge, when suddenly the bridge collapses and they get trapped underneath. Some users are sharing this video, believing it to be a real incident. It is being claimed that the incident took place in Chhapra, Bihar. The video is also being used to criticize the government
+2025-06-27 15:43:11,678 [INFO] Result: ... [truncated]
+2025-06-27 15:43:11,714 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 15:43:12,486 [INFO] Raw LLM Response: {
+      "supports_claim": true,
+      "explanation": "The result supports the claim by confirming the virality of the video on social media, as stated in the claim. It also indicates that users are sharing the video, which aligns with the claim. The video content describes a bridge collapse incident, and although it is not explicitly mentioned where the incident happened, the video being used to criticize the government suggests it could be in India, possibly Chhapra, Bihar, as per the claim."
+   }
+2025-06-27 15:43:12,487 [INFO] Response status: 200
+2025-06-27 15:44:09,585 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 15:44:09,587 [INFO] Received Claim and Result
+2025-06-27 15:44:09,587 [INFO] Claim: A video is rapidly going viral on social media, shared by users. In the video, some people can be seen constructing a bridge, when suddenly the bridge collapses and they get trapped underneath. Some users are sharing this video, believing it to be a real incident. It is being claimed that the incident took place in Chhapra, Bihar. The video is also being used to criticize the government
+2025-06-27 15:44:09,587 [INFO] Result: ... [truncated]
+2025-06-27 15:44:09,621 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 15:44:10,718 [INFO] Raw LLM Response: {
+      "supports_claim": true,
+      "explanation": "The result supports the claim in several ways. Firstly, it mentions that a video of a bridge collapse incident is going viral on social media and users are sharing it. This aligns with the initial claim about the video being shared. Secondly, the result implies that some people believe the incident to be real, which corresponds to the claim that users are claiming it as a real incident. Lastly, the result mentions that the video is being used to criticize the government, which might suggest that the incident took place in a location with a government, such as Chhapra, Bihar (although no direct location is given in the result). No contradictory evidence was found."
+   }
+2025-06-27 15:44:10,718 [INFO] Response status: 200
+2025-06-27 17:09:38,898 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-06-27 17:09:38,899 [INFO] Received Claim and Result
+2025-06-27 17:09:38,900 [INFO] Claim: A claim spreading on social media alleges that a video filmed in India shows a shirtless man, completely covered in mud or a similar substance, sitting on the ground and preparing unhygienic food using organic waste, mud, slippers, and even spitting water
+2025-06-27 17:09:38,900 [INFO] Result: ... [truncated]
+2025-06-27 17:09:39,961 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-27 17:09:40,665 [INFO] Raw LLM Response: {
+    "supports_claim": false,
+    "explanation": "The result provided by India Today debunks this claim. It explains that the video is not from India but from South Africa, where a local man is preparing traditional food for a community event. The journalist also highlights that the food preparation process shown in the video is common and accepted in the particular African culture, contrary to the initial claims of it being unhygienic."
+   }
+2025-06-27 17:09:40,665 [INFO] Response status: 200
+2025-06-30 09:25:33,322 [INFO] Warming up Hypothesis Expert Agents...
+2025-06-30 09:25:33,331 [ERROR] Warm-up failed: [Errno 111] Connection refused
+2025-07-01 09:05:46,909 [INFO] Warming up Hypothesis Expert Agents...
+2025-07-01 09:05:46,917 [ERROR] Warm-up failed: [Errno 111] Connection refused
+2025-07-02 09:22:01,209 [INFO] Warming up Hypothesis Expert Agents...
+2025-07-02 09:22:01,219 [ERROR] Warm-up failed: [Errno 111] Connection refused
+2025-07-02 10:47:09,475 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-07-02 10:47:09,805 [INFO] Received Claim and Result
+2025-07-02 10:47:09,806 [INFO] Claim: Visuals from India's Chandrayaan-3 lunar mission fabricated
+2025-07-02 10:47:09,807 [INFO] Result: https://tribune.com.pk/story/2553446/visuals-from-indias-chandrayaan-3-lunar-mission-fabricated-report: TODAY'S PAPER | JULY 02, 2025 | EPAPER HOME LATEST PAKISTAN BUSINESS WORLD SPORTS OPINION LIFE & STYLE T-MAGAZINE T.EDIT BLOGS TECH VIDEOS CARTOON World Visuals from India's Chandrayaan-3 lunar mission fabricated: report Fake News Watchdog dismisses mission as media spectacle rather than scientific achievement Web Desk June 30, 2025 facebook twitter whatsup linkded email An explosive new repor... [truncated]
+2025-07-02 10:47:12,375 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-02 10:47:13,950 [INFO] Raw LLM Response: {
+      "supports_claim": true,
+      "explanation": "The result supports the claim that visuals from India's Chandrayaan-3 lunar mission were fabricated. The news report from Fake News Watchdog (https://tribune.com.pk/story/2553446/) claims that the live visuals of the moon landing, which were broadcast worldwide, were created using computer-generated graphics (CGI). The report further states that the 'live' footage of Chandrayaan-3's descent and landing was fabricated and presented in a staged environment. The command centre scenes shown on national television were also described as being choreographed. The link to Daily Times Pakistan (https://dailytimes.com.pk/1326150/) corroborates the claim by mentioning that the white paper released by the Fake News Watchdog casts a shadow of doubt over the authenticity of India's Chandrayaan-3 lunar mission."
+   }
+2025-07-02 10:47:13,950 [INFO] Response status: 200
+2025-07-02 11:01:04,317 [INFO] Incoming request: POST http://10.226.53.238:5005/agents/hypothesis-check
+2025-07-02 11:01:04,319 [INFO] Received Claim and Result
+2025-07-02 11:01:04,320 [INFO] Claim: British F-35B jet grounded in India due to repair logistics, not design flaw
+2025-07-02 11:01:04,320 [INFO] Result: https://dfrac.org/en/2025/07/01/fact-check-british-f-35b-jet-grounded-in-india-due-to-repair-logistics-not-design-flaw/: Skip to content Wednesday, July 02, 2025 DFRAC_ORG Digital Forensics, Research and Analytics Center Home Fact Check Hate Monitor Opinion Hashtag Scanner Podcasts About Language Events site mode button Fact Check: British F-35B jet grounded in India due to repair logistics, not design flaw Fact Check En July 1, 2025Aayushi Rana An F-35 Lightning II fighter jet belonging to the ... [truncated]
+2025-07-02 11:01:05,522 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-02 11:01:06,934 [INFO] Raw LLM Response: {
+    "supports_claim": true,
+    "explanation": "The result provides factual evidence that the British F-35B jet grounded in India was due to repair logistics, not design flaw. The article 'Fact Check: British F-35B jet grounded in India due to repair logistics, not design flaw' from DFRAC (Digital Forensics, Research and Analytics Center) states that the jet had an emergency landing in Thiruvananthapuram, Kerala, on June 14 due to bad weather and low fuel. After landing, a hydraulic snag was discovered which required specialized equipment and personnel from the UK to fix. The article further confirms that the jet has remained grounded as logistical arrangements are being made to tow it to a maintenance hangar at the airport. This contradicts the claim that the jet was grounded due to design flaws."
+   }
+2025-07-02 11:01:06,934 [INFO] Response status: 200
+2025-07-03 09:15:51,106 [INFO] Warming up Hypothesis Expert Agents...
+2025-07-03 09:15:51,113 [ERROR] Warm-up failed: [Errno 111] Connection refused
+2025-07-04 09:07:51,141 [INFO] Warming up Hypothesis Expert Agents...
+2025-07-04 09:07:51,148 [ERROR] Warm-up failed: [Errno 111] Connection refused
