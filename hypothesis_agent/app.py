@@ -23,7 +23,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ---------- Initialize LLM ----------
-llm = OllamaLLM(model="mistral")
+llm = OllamaLLM(model="mistral:7b")
 
 hypothesis_expert_prompt = """
 You are a multilingual reasoning expert AI, capable of evaluating whether a result supports a claim.

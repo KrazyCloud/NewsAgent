@@ -23,7 +23,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ---------- Initialize LLM ----------
-llm = OllamaLLM(model="mistral")
+llm = OllamaLLM(model="mistral:7b")
 
 # ---------- Prompt: Media Info Extractor ----------
 media_info_prompt = """
